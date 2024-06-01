@@ -1405,3 +1405,16 @@
 2024-06-01 15:09:24,104 [main] INFO Luma Store - Next button is clicked
 2024-06-01 15:09:29,219 [main] INFO Luma Store - Place Order button is clicked
 2024-06-01 15:09:34,243 [main] INFO Luma Store - Checkout Page Test is passed
+2024-06-01 20:44:09,766 [main] INFO Luma Store - URL is opened
+2024-06-01 20:44:09,940 [main] INFO Luma Store - Logo is displayed
+2024-06-01 20:44:09,993 [main] INFO Luma Store - Sign In Button is displayed
+2024-06-01 20:44:10,036 [main] INFO Luma Store - Create an Account Button is displayed
+2024-06-01 20:44:10,077 [main] INFO Luma Store - Support Button is displayed
+2024-06-01 20:44:10,092 [main] INFO Luma Store - Index Page Test is passed
+2024-06-01 20:44:20,361 [main] INFO Luma Store - URL is opened
+2024-06-01 20:44:21,707 [main] INFO Luma Store - Sign In Button is clicked
+2024-06-01 20:44:26,864 [main] INFO Luma Store - Email is entered
+2024-06-01 20:44:27,981 [main] INFO Luma Store - Password is entered
+2024-06-01 20:44:32,700 [main] INFO Luma Store - Sign In Button is clicked
+2024-06-01 20:44:37,726 [main] INFO Luma Store - User is loged In
+2024-06-01 20:44:37,728 [main] INFO Luma Store - Login Page Test is passed

@@ -1,11 +1,11 @@
-D:\My Job\QA Engineer\Template for QA Project\Template Code Framework Selenium\Original Source\LumaStoreProject\src\main\java\com\luma\pageobjects\HeaderMenu.java
-D:\My Job\QA Engineer\Template for QA Project\Template Code Framework Selenium\Original Source\LumaStoreProject\src\main\java\com\luma\pageobjects\IndexPage.java
-D:\My Job\QA Engineer\Template for QA Project\Template Code Framework Selenium\Original Source\LumaStoreProject\src\main\java\com\luma\utility\ReadConfig.java
-D:\My Job\QA Engineer\Template for QA Project\Template Code Framework Selenium\Original Source\LumaStoreProject\src\main\java\com\luma\utility\Reporting.java
-D:\My Job\QA Engineer\Template for QA Project\Template Code Framework Selenium\Original Source\LumaStoreProject\src\main\java\com\luma\pageobjects\LoginPage.java
-D:\My Job\QA Engineer\Template for QA Project\Template Code Framework Selenium\Original Source\LumaStoreProject\src\main\java\com\luma\pageobjects\ShoppingCartPage.java
-D:\My Job\QA Engineer\Template for QA Project\Template Code Framework Selenium\Original Source\LumaStoreProject\src\main\java\com\luma\base\BaseClass.java
-D:\My Job\QA Engineer\Template for QA Project\Template Code Framework Selenium\Original Source\LumaStoreProject\src\main\java\com\luma\pageobjects\CheckoutPage.java
-D:\My Job\QA Engineer\Template for QA Project\Template Code Framework Selenium\Original Source\LumaStoreProject\src\main\java\com\luma\pageobjects\HomePage.java
-D:\My Job\QA Engineer\Template for QA Project\Template Code Framework Selenium\Original Source\LumaStoreProject\src\main\java\com\luma\pageobjects\MyWishListPage.java
-D:\My Job\QA Engineer\Template for QA Project\Template Code Framework Selenium\Original Source\LumaStoreProject\src\main\java\com\luma\pageobjects\SearchResultPage.java
+D:\LumaStoreProject\src\main\java\com\luma\pageobjects\IndexPage.java
+D:\LumaStoreProject\src\main\java\com\luma\utility\ReadConfig.java
+D:\LumaStoreProject\src\main\java\com\luma\pageobjects\MyWishListPage.java
+D:\LumaStoreProject\src\main\java\com\luma\pageobjects\ShoppingCartPage.java
+D:\LumaStoreProject\src\main\java\com\luma\pageobjects\CheckoutPage.java
+D:\LumaStoreProject\src\main\java\com\luma\base\BaseClass.java
+D:\LumaStoreProject\src\main\java\com\luma\pageobjects\HeaderMenu.java
+D:\LumaStoreProject\src\main\java\com\luma\utility\Reporting.java
+D:\LumaStoreProject\src\main\java\com\luma\pageobjects\SearchResultPage.java
+D:\LumaStoreProject\src\main\java\com\luma\pageobjects\HomePage.java
+D:\LumaStoreProject\src\main\java\com\luma\pageobjects\LoginPage.java
