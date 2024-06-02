@@ -1,5 +1,0 @@
-# Created at 2024-06-01T15:05:27.746
-Boot Manifest-JAR contains absolute paths in classpath 'D:\My Job\QA Engineer\Template for QA Project\Template Code Framework Selenium\Original Source\LumaStoreProject\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-

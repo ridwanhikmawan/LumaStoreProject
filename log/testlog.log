@@ -1,1420 +1,192 @@
-2024-05-30 23:02:00,337 - Luma Store -INFO - URL is opened
-2024-05-30 23:02:00,454 - Luma Store -INFO - Logo is validated
-2024-05-30 23:02:00,464 - Luma Store -INFO - Page title is validated
-2024-05-30 23:02:00,464 - Luma Store -INFO - Index Page test passed
-2024-05-30 23:17:03,102 - Luma Store -INFO - URL is opened
-2024-05-30 23:17:03,216 - Luma Store -INFO - Logo is displayed
-2024-05-30 23:17:03,247 - Luma Store -INFO - Sign In Button is displayed
-2024-05-30 23:17:03,274 - Luma Store -INFO - Sign Up Button is displayed
-2024-05-30 23:17:03,320 - Luma Store -INFO - Support Button is displayed
-2024-05-30 23:17:03,331 - Luma Store -INFO - Index Page test passed
-2024-05-30 23:28:09,889 - Luma Store -INFO - URL is opened
-2024-05-30 23:28:10,038 - Luma Store -INFO - Logo is displayed
-2024-05-30 23:28:10,076 - Luma Store -INFO - Sign In Button is displayed
-2024-05-30 23:28:10,116 - Luma Store -INFO - Sign Up Button is displayed
-2024-05-30 23:28:10,164 - Luma Store -INFO - Support Button is displayed
-2024-05-30 23:28:10,175 - Luma Store -INFO - Index Page Test is passed
-2024-05-30 23:32:27,036 - Luma Store -INFO - URL is opened
-2024-05-30 23:32:27,127 - Luma Store -INFO - Logo is displayed
-2024-05-30 23:32:27,163 - Luma Store -INFO - Sign In Button is displayed
-2024-05-30 23:32:27,192 - Luma Store -INFO - Sign Up Button is displayed
-2024-05-30 23:32:27,224 - Luma Store -INFO - Support Button is displayed
-2024-05-30 23:32:27,238 - Luma Store -INFO - Index Page Test is passed
-2024-05-30 23:34:32,681 - Luma Store -INFO - URL is opened
-2024-05-30 23:34:32,778 - Luma Store -INFO - Logo is displayed
-2024-05-30 23:34:32,807 - Luma Store -INFO - Sign In Button is displayed
-2024-05-30 23:34:32,836 - Luma Store -INFO - Sign Up Button is displayed
-2024-05-30 23:34:32,906 - Luma Store -INFO - Support Button is displayed
-2024-05-30 23:34:32,918 - Luma Store -INFO - Index Page Test is passed
-2024-05-30 23:54:41,660 - Luma Store -INFO - URL is opened
-2024-05-30 23:54:41,753 - Luma Store -INFO - Logo is displayed
-2024-05-30 23:54:41,784 - Luma Store -INFO - Sign In Button is displayed
-2024-05-30 23:54:41,812 - Luma Store -INFO - Create an Account Button is displayed
-2024-05-30 23:54:41,843 - Luma Store -INFO - Support Button is displayed
-2024-05-30 23:54:41,853 - Luma Store -INFO - Index Page Test is passed
-2024-05-31 05:59:16,572 - Luma Store -INFO - URL is opened
-2024-05-31 05:59:18,493 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 05:59:18,507 - Luma Store -INFO - User is on Login Page
-2024-05-31 05:59:18,672 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 05:59:18,776 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 05:59:21,251 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 05:59:21,284 - Luma Store -INFO - Index Page Test is passed
-2024-05-31 06:02:52,924 - Luma Store -INFO - URL is opened
-2024-05-31 06:02:54,564 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 06:02:54,597 - Luma Store -INFO - User is on Login Page
-2024-05-31 06:02:54,834 - Luma Store -INFO - Email is entered
-2024-05-31 06:02:54,935 - Luma Store -INFO - Password is entered
-2024-05-31 06:02:57,388 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 06:02:57,410 - Luma Store -INFO - User is loged In
-2024-05-31 06:02:57,413 - Luma Store -INFO - Login Page Test is passed
-2024-05-31 06:05:35,049 - Luma Store -INFO - URL is opened
-2024-05-31 06:05:36,838 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 06:05:37,174 - Luma Store -INFO - Email is entered
-2024-05-31 06:05:37,270 - Luma Store -INFO - Password is entered
-2024-05-31 06:05:39,860 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 06:05:39,892 - Luma Store -INFO - User is loged In
-2024-05-31 06:05:39,893 - Luma Store -INFO - Login Page Test is passed
-2024-05-31 06:09:19,582 - Luma Store -INFO - URL is opened
-2024-05-31 06:09:21,146 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 06:12:49,318 - Luma Store -INFO - URL is opened
-2024-05-31 06:12:50,877 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 06:12:50,911 - Luma Store -INFO - User is on Login Page
-2024-05-31 06:12:51,151 - Luma Store -INFO - Email is entered
-2024-05-31 06:12:51,245 - Luma Store -INFO - Password is entered
-2024-05-31 06:12:53,620 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 06:12:53,630 - Luma Store -INFO - User is loged In
-2024-05-31 06:12:53,631 - Luma Store -INFO - Login Page Test is passed
-2024-05-31 07:03:17,099 - Luma Store -INFO - URL is opened
-2024-05-31 07:07:42,452 - Luma Store -INFO - URL is opened
-2024-05-31 07:07:43,913 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 07:07:43,914 - Luma Store -INFO - User is on Login Page
-2024-05-31 07:07:44,080 - Luma Store -INFO - Email is entered
-2024-05-31 07:07:44,181 - Luma Store -INFO - Password is entered
-2024-05-31 07:07:46,651 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 07:07:46,652 - Luma Store -INFO - User is loged In
-2024-05-31 07:09:12,247 - Luma Store -INFO - URL is opened
-2024-05-31 07:09:14,065 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 07:09:14,066 - Luma Store -INFO - User is on Login Page
-2024-05-31 07:09:14,273 - Luma Store -INFO - Email is entered
-2024-05-31 07:09:14,411 - Luma Store -INFO - Password is entered
-2024-05-31 07:09:17,033 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 07:09:17,033 - Luma Store -INFO - User is loged In
-2024-05-31 07:09:22,096 - Luma Store -INFO - Welcome Text is displayed
-2024-05-31 07:09:22,133 - Luma Store -INFO - Header Menu is displayed
-2024-05-31 07:09:22,145 - Luma Store -INFO - Home Page Test is passed
-2024-05-31 08:00:42,274 - Luma Store -INFO - URL is opened
-2024-05-31 08:00:43,794 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 08:00:43,795 - Luma Store -INFO - User is on Login Page
-2024-05-31 08:00:43,998 - Luma Store -INFO - Email is entered
-2024-05-31 08:00:44,094 - Luma Store -INFO - Password is entered
-2024-05-31 08:00:46,548 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 08:00:46,549 - Luma Store -INFO - User is loged In
-2024-05-31 08:00:51,682 - Luma Store -INFO - Product name is entered
-2024-05-31 08:01:01,942 - Luma Store -INFO - Search Result Page is opened
-2024-05-31 08:01:01,994 - Luma Store -INFO - List of Product is displayed
-2024-05-31 08:01:02,035 - Luma Store -INFO - Product Image is displayed
-2024-05-31 08:01:02,061 - Luma Store -INFO - Product Name is displayed
-2024-05-31 08:01:02,097 - Luma Store -INFO - Product Price is displayed
-2024-05-31 08:01:02,192 - Luma Store -INFO - Product Size is choosed
-2024-05-31 08:01:02,275 - Luma Store -INFO - Product Color is choosed
-2024-05-31 08:01:02,361 - Luma Store -INFO - Add to Cart Button is clicked
-2024-05-31 08:03:03,113 - Luma Store -INFO - URL is opened
-2024-05-31 08:03:04,732 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 08:03:04,734 - Luma Store -INFO - User is on Login Page
-2024-05-31 08:03:04,899 - Luma Store -INFO - Email is entered
-2024-05-31 08:03:04,994 - Luma Store -INFO - Password is entered
-2024-05-31 08:03:10,380 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 08:03:10,382 - Luma Store -INFO - User is loged In
-2024-05-31 08:03:15,539 - Luma Store -INFO - Product name is entered
-2024-05-31 08:04:23,483 - Luma Store -INFO - Search Result Page is opened
-2024-05-31 08:04:23,544 - Luma Store -INFO - List of Product is displayed
-2024-05-31 08:04:23,579 - Luma Store -INFO - Product Image is displayed
-2024-05-31 08:04:23,605 - Luma Store -INFO - Product Name is displayed
-2024-05-31 08:04:23,634 - Luma Store -INFO - Product Price is displayed
-2024-05-31 08:04:23,714 - Luma Store -INFO - Product Size is choosed
-2024-05-31 08:04:23,792 - Luma Store -INFO - Product Color is choosed
-2024-05-31 08:04:23,875 - Luma Store -INFO - Add to Cart Button is clicked
-2024-05-31 08:04:23,888 - Luma Store -INFO - Search Result Page Test is passed
-2024-05-31 12:35:25,870 - Luma Store -INFO - URL is opened
-2024-05-31 12:35:27,314 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 12:35:27,314 - Luma Store -INFO - User is on Login Page
-2024-05-31 12:35:29,481 - Luma Store -INFO - Email is entered
-2024-05-31 12:35:30,594 - Luma Store -INFO - Password is entered
-2024-05-31 12:35:37,205 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 12:35:37,205 - Luma Store -INFO - User is loged In
-2024-05-31 12:35:39,317 - Luma Store -INFO - Product name is entered
-2024-05-31 12:35:46,289 - Luma Store -INFO - Search Result Page is opened
-2024-05-31 12:35:48,369 - Luma Store -INFO - List of Product is displayed
-2024-05-31 12:35:48,406 - Luma Store -INFO - Product Image is displayed
-2024-05-31 12:35:48,431 - Luma Store -INFO - Product Name is displayed
-2024-05-31 12:35:48,470 - Luma Store -INFO - Product Price is displayed
-2024-05-31 12:35:48,562 - Luma Store -INFO - First Product Size is choosed
-2024-05-31 12:35:49,660 - Luma Store -INFO - First Product Color is choosed
-2024-05-31 12:35:50,793 - Luma Store -INFO - First Add to Cart Button is clicked
-2024-05-31 12:35:51,860 - Luma Store -INFO - Second Product Size is choosed
-2024-05-31 12:35:52,960 - Luma Store -INFO - Second Product Color is choosed
-2024-05-31 12:35:54,091 - Luma Store -INFO - Second Add to Cart Button is clicked
-2024-05-31 12:35:55,195 - Luma Store -INFO - Third Product Size is choosed
-2024-05-31 12:35:56,287 - Luma Store -INFO - Third Product Color is choosed
-2024-05-31 12:35:57,415 - Luma Store -INFO - Third Add to Cart Button is clicked
-2024-05-31 12:35:58,441 - Luma Store -INFO - Search Result Page Test is passed
-2024-05-31 12:38:33,028 - Luma Store -INFO - URL is opened
-2024-05-31 12:38:34,419 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 12:38:34,421 - Luma Store -INFO - User is on Login Page
-2024-05-31 12:38:36,639 - Luma Store -INFO - Email is entered
-2024-05-31 12:38:37,777 - Luma Store -INFO - Password is entered
-2024-05-31 12:38:41,680 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 12:38:41,680 - Luma Store -INFO - User is loged In
-2024-05-31 12:38:43,782 - Luma Store -INFO - Cart is opened
-2024-05-31 12:39:26,525 - Luma Store -INFO - URL is opened
-2024-05-31 12:39:27,887 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 12:39:27,889 - Luma Store -INFO - User is on Login Page
-2024-05-31 12:39:30,061 - Luma Store -INFO - Email is entered
-2024-05-31 12:39:31,203 - Luma Store -INFO - Password is entered
-2024-05-31 12:39:35,308 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 12:39:35,309 - Luma Store -INFO - User is loged In
-2024-05-31 12:39:40,454 - Luma Store -INFO - Cart is opened
-2024-05-31 12:40:04,696 - Luma Store -INFO - Shopping Cart Page is opened
-2024-05-31 12:40:06,764 - Luma Store -INFO - Counter Number is displayed
-2024-05-31 12:40:06,802 - Luma Store -INFO - Product Image is displayed
-2024-05-31 12:40:06,830 - Luma Store -INFO - Product Detail is displayed
-2024-05-31 12:41:25,961 - Luma Store -INFO - URL is opened
-2024-05-31 12:41:27,367 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 12:41:27,367 - Luma Store -INFO - User is on Login Page
-2024-05-31 12:41:29,548 - Luma Store -INFO - Email is entered
-2024-05-31 12:41:30,733 - Luma Store -INFO - Password is entered
-2024-05-31 12:41:35,367 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 12:41:35,368 - Luma Store -INFO - User is loged In
-2024-05-31 12:41:40,518 - Luma Store -INFO - Cart is opened
-2024-05-31 12:43:11,499 - Luma Store -INFO - Shopping Cart Page is opened
-2024-05-31 12:43:33,756 - Luma Store -INFO - URL is opened
-2024-05-31 12:43:35,105 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 12:43:35,105 - Luma Store -INFO - User is on Login Page
-2024-05-31 12:43:37,282 - Luma Store -INFO - Email is entered
-2024-05-31 12:43:38,425 - Luma Store -INFO - Password is entered
-2024-05-31 12:43:43,786 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 12:43:43,787 - Luma Store -INFO - User is loged In
-2024-05-31 12:43:48,923 - Luma Store -INFO - Cart is opened
-2024-05-31 12:44:02,221 - Luma Store -INFO - Shopping Cart Page is opened
-2024-05-31 12:44:07,295 - Luma Store -INFO - Counter Number is displayed
-2024-05-31 12:44:07,328 - Luma Store -INFO - Product Image is displayed
-2024-05-31 12:44:07,355 - Luma Store -INFO - Product Detail is displayed
-2024-05-31 13:11:25,283 - Luma Store -INFO - URL is opened
-2024-05-31 13:11:26,743 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 13:11:26,746 - Luma Store -INFO - User is on Login Page
-2024-05-31 13:11:28,958 - Luma Store -INFO - Email is entered
-2024-05-31 13:11:30,087 - Luma Store -INFO - Password is entered
-2024-05-31 13:11:34,341 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 13:11:34,341 - Luma Store -INFO - User is loged In
-2024-05-31 13:11:39,467 - Luma Store -INFO - Cart is opened
-2024-05-31 13:11:57,003 - Luma Store -INFO - Shopping Cart Page is opened
-2024-05-31 13:12:02,089 - Luma Store -INFO - Counter Number is displayed
-2024-05-31 13:12:02,123 - Luma Store -INFO - Product Image is displayed
-2024-05-31 13:12:02,149 - Luma Store -INFO - Product Detail is displayed
-2024-05-31 13:12:02,178 - Luma Store -INFO - Product Quantity is displayed
-2024-05-31 13:12:02,205 - Luma Store -INFO - Subtotal Price is displayed
-2024-05-31 13:14:04,885 - Luma Store -INFO - Second Product is moveed to wishlist
-2024-05-31 13:16:11,206 - Luma Store -INFO - URL is opened
-2024-05-31 13:16:12,814 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 13:16:12,815 - Luma Store -INFO - User is on Login Page
-2024-05-31 13:16:15,006 - Luma Store -INFO - Email is entered
-2024-05-31 13:16:16,137 - Luma Store -INFO - Password is entered
-2024-05-31 13:16:22,062 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 13:16:22,063 - Luma Store -INFO - User is loged In
-2024-05-31 13:16:27,180 - Luma Store -INFO - Cart is opened
-2024-05-31 13:17:03,937 - Luma Store -INFO - URL is opened
-2024-05-31 13:17:05,410 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 13:17:05,412 - Luma Store -INFO - User is on Login Page
-2024-05-31 13:17:07,608 - Luma Store -INFO - Email is entered
-2024-05-31 13:17:08,738 - Luma Store -INFO - Password is entered
-2024-05-31 13:17:13,050 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 13:17:13,051 - Luma Store -INFO - User is loged In
-2024-05-31 13:17:18,210 - Luma Store -INFO - Cart is opened
-2024-05-31 13:17:23,777 - Luma Store -INFO - Shopping Cart Page is opened
-2024-05-31 13:17:28,855 - Luma Store -INFO - Counter Number is displayed
-2024-05-31 13:24:17,879 - Luma Store -INFO - URL is opened
-2024-05-31 13:24:19,498 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 13:24:19,501 - Luma Store -INFO - User is on Login Page
-2024-05-31 13:24:21,667 - Luma Store -INFO - Email is entered
-2024-05-31 13:24:22,777 - Luma Store -INFO - Password is entered
-2024-05-31 13:24:27,968 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 13:24:27,969 - Luma Store -INFO - User is loged In
-2024-05-31 13:24:33,070 - Luma Store -INFO - Cart is opened
-2024-05-31 13:24:51,866 - Luma Store -INFO - Shopping Cart Page is opened
-2024-05-31 13:24:56,940 - Luma Store -INFO - Counter Number is displayed
-2024-05-31 13:24:56,973 - Luma Store -INFO - Product Image is displayed
-2024-05-31 13:24:57,002 - Luma Store -INFO - Product Detail is displayed
-2024-05-31 13:24:57,035 - Luma Store -INFO - Product Quantity is displayed
-2024-05-31 13:24:57,063 - Luma Store -INFO - Subtotal Price is displayed
-2024-05-31 13:30:13,444 - Luma Store -INFO - URL is opened
-2024-05-31 13:30:14,924 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 13:30:14,925 - Luma Store -INFO - User is on Login Page
-2024-05-31 13:30:17,081 - Luma Store -INFO - Email is entered
-2024-05-31 13:30:18,202 - Luma Store -INFO - Password is entered
-2024-05-31 13:30:22,401 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 13:30:22,402 - Luma Store -INFO - User is loged In
-2024-05-31 13:30:27,544 - Luma Store -INFO - Cart is opened
-2024-05-31 13:31:24,771 - Luma Store -INFO - Shopping Cart Page is opened
-2024-05-31 13:31:29,852 - Luma Store -INFO - Counter Number is displayed
-2024-05-31 13:33:43,022 - Luma Store -INFO - URL is opened
-2024-05-31 13:33:47,144 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 13:33:47,147 - Luma Store -INFO - User is on Login Page
-2024-05-31 13:33:49,322 - Luma Store -INFO - Email is entered
-2024-05-31 13:33:50,454 - Luma Store -INFO - Password is entered
-2024-05-31 13:33:56,833 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 13:33:56,833 - Luma Store -INFO - User is loged In
-2024-05-31 13:34:01,957 - Luma Store -INFO - Cart is opened
-2024-05-31 13:34:56,002 - Luma Store -INFO - URL is opened
-2024-05-31 13:34:57,533 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 13:34:57,535 - Luma Store -INFO - User is on Login Page
-2024-05-31 13:34:59,718 - Luma Store -INFO - Email is entered
-2024-05-31 13:35:00,829 - Luma Store -INFO - Password is entered
-2024-05-31 13:35:04,788 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 13:35:04,790 - Luma Store -INFO - User is loged In
-2024-05-31 13:35:09,915 - Luma Store -INFO - Cart is opened
-2024-05-31 13:35:17,934 - Luma Store -INFO - Shopping Cart Page is opened
-2024-05-31 13:35:22,996 - Luma Store -INFO - Counter Number is displayed
-2024-05-31 13:35:23,029 - Luma Store -INFO - Product Image is displayed
-2024-05-31 13:35:23,055 - Luma Store -INFO - Product Detail is displayed
-2024-05-31 13:35:23,086 - Luma Store -INFO - Product Quantity is displayed
-2024-05-31 13:35:23,116 - Luma Store -INFO - Subtotal Price is displayed
-2024-05-31 13:36:00,411 - Luma Store -INFO - Third Product is removed
-2024-05-31 13:36:05,483 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 13:36:05,516 - Luma Store -INFO - Total Price is displayed
-2024-05-31 14:00:27,203 - Luma Store -INFO - URL is opened
-2024-05-31 14:00:28,681 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 14:00:28,682 - Luma Store -INFO - User is on Login Page
-2024-05-31 14:00:30,893 - Luma Store -INFO - Email is entered
-2024-05-31 14:00:31,987 - Luma Store -INFO - Password is entered
-2024-05-31 14:00:36,177 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 14:00:36,179 - Luma Store -INFO - User is loged In
-2024-05-31 14:00:38,329 - Luma Store -INFO - Product name is entered
-2024-05-31 14:00:59,916 - Luma Store -INFO - Search Result Page is opened
-2024-05-31 14:01:02,016 - Luma Store -INFO - List of Product is displayed
-2024-05-31 14:01:02,051 - Luma Store -INFO - Product Image is displayed
-2024-05-31 14:01:02,075 - Luma Store -INFO - Product Name is displayed
-2024-05-31 14:01:02,104 - Luma Store -INFO - Product Price is displayed
-2024-05-31 14:01:02,199 - Luma Store -INFO - First Product Size is choosed
-2024-05-31 14:01:03,309 - Luma Store -INFO - First Product Color is choosed
-2024-05-31 14:01:04,401 - Luma Store -INFO - First Add to Cart Button is clicked
-2024-05-31 14:01:05,530 - Luma Store -INFO - Second Product Size is choosed
-2024-05-31 14:01:06,649 - Luma Store -INFO - Second Product Color is choosed
-2024-05-31 14:01:07,730 - Luma Store -INFO - Second Add to Cart Button is clicked
-2024-05-31 14:01:08,834 - Luma Store -INFO - Third Product Size is choosed
-2024-05-31 14:01:09,926 - Luma Store -INFO - Third Product Color is choosed
-2024-05-31 14:01:11,023 - Luma Store -INFO - Third Add to Cart Button is clicked
-2024-05-31 14:01:12,041 - Luma Store -INFO - Search Result Page Test is passed
-2024-05-31 14:01:21,872 - Luma Store -INFO - URL is opened
-2024-05-31 14:01:23,366 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 14:01:23,367 - Luma Store -INFO - User is on Login Page
-2024-05-31 14:01:25,595 - Luma Store -INFO - Email is entered
-2024-05-31 14:01:26,738 - Luma Store -INFO - Password is entered
-2024-05-31 14:01:32,223 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 14:01:32,224 - Luma Store -INFO - User is loged In
-2024-05-31 14:01:37,365 - Luma Store -INFO - Cart is opened
-2024-05-31 14:02:14,686 - Luma Store -INFO - Shopping Cart Page is opened
-2024-05-31 14:02:19,753 - Luma Store -INFO - Counter Number is displayed
-2024-05-31 14:02:19,785 - Luma Store -INFO - Product Image is displayed
-2024-05-31 14:02:19,816 - Luma Store -INFO - Product Detail is displayed
-2024-05-31 14:02:19,848 - Luma Store -INFO - Product Quantity is displayed
-2024-05-31 14:02:19,880 - Luma Store -INFO - Subtotal Price is displayed
-2024-05-31 14:03:01,002 - Luma Store -INFO - Second Product is moved to wishlist
-2024-05-31 14:03:17,581 - Luma Store -INFO - Third Product is removed
-2024-05-31 14:03:22,636 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 14:03:22,662 - Luma Store -INFO - Total Price is displayed
-2024-05-31 14:03:22,670 - Luma Store -INFO - Search Result Page Test is passed
-2024-05-31 18:48:32,216 - Luma Store -INFO - URL is opened
-2024-05-31 18:48:33,734 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 18:48:33,736 - Luma Store -INFO - User is on Login Page
-2024-05-31 18:48:39,019 - Luma Store -INFO - Email is entered
-2024-05-31 18:48:40,237 - Luma Store -INFO - Password is entered
-2024-05-31 18:48:45,144 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 18:48:45,146 - Luma Store -INFO - User is loged In
-2024-05-31 18:48:50,351 - Luma Store -INFO - Profile Menu is clicked
-2024-05-31 18:51:14,188 - Luma Store -INFO - URL is opened
-2024-05-31 18:51:15,690 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 18:51:15,691 - Luma Store -INFO - User is on Login Page
-2024-05-31 18:51:20,958 - Luma Store -INFO - Email is entered
-2024-05-31 18:51:22,183 - Luma Store -INFO - Password is entered
-2024-05-31 18:51:27,167 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 18:51:27,168 - Luma Store -INFO - User is loged In
-2024-05-31 18:51:32,364 - Luma Store -INFO - Profile Menu is clicked
-2024-05-31 18:51:36,319 - Luma Store -INFO - My Wishlist Page is opened
-2024-05-31 18:51:41,415 - Luma Store -INFO - Wishlist Product is displayed
-2024-05-31 18:53:37,715 - Luma Store -INFO - URL is opened
-2024-05-31 18:53:39,646 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 18:53:39,647 - Luma Store -INFO - User is on Login Page
-2024-05-31 18:53:44,979 - Luma Store -INFO - Email is entered
-2024-05-31 18:53:46,199 - Luma Store -INFO - Password is entered
-2024-05-31 18:53:50,559 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 18:53:50,560 - Luma Store -INFO - User is loged In
-2024-05-31 18:53:55,772 - Luma Store -INFO - Profile Menu is clicked
-2024-05-31 18:54:00,844 - Luma Store -INFO - My Wishlist Page is opened
-2024-05-31 18:54:05,954 - Luma Store -INFO - Wishlist Product is displayed
-2024-05-31 18:55:41,571 - Luma Store -INFO - URL is opened
-2024-05-31 18:55:43,054 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 18:55:43,054 - Luma Store -INFO - User is on Login Page
-2024-05-31 18:55:48,386 - Luma Store -INFO - Email is entered
-2024-05-31 18:55:49,560 - Luma Store -INFO - Password is entered
-2024-05-31 18:55:53,704 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 18:55:53,705 - Luma Store -INFO - User is loged In
-2024-05-31 18:55:58,907 - Luma Store -INFO - Profile Menu is clicked
-2024-05-31 18:56:14,688 - Luma Store -INFO - My Wishlist Page is opened
-2024-05-31 18:56:19,772 - Luma Store -INFO - Wishlist Product is displayed
-2024-05-31 18:58:24,503 - Luma Store -INFO - Wishlist Product is removed
-2024-05-31 18:58:51,452 - Luma Store -INFO - URL is opened
-2024-05-31 18:58:52,901 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 18:58:52,902 - Luma Store -INFO - User is on Login Page
-2024-05-31 18:58:58,140 - Luma Store -INFO - Email is entered
-2024-05-31 18:58:59,364 - Luma Store -INFO - Password is entered
-2024-05-31 18:59:06,568 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 18:59:06,568 - Luma Store -INFO - User is loged In
-2024-05-31 18:59:11,783 - Luma Store -INFO - Profile Menu is clicked
-2024-05-31 18:59:15,392 - Luma Store -INFO - My Wishlist Page is opened
-2024-05-31 18:59:20,511 - Luma Store -INFO - Wishlist Product is displayed
-2024-05-31 19:08:30,514 - Luma Store -INFO - URL is opened
-2024-05-31 19:08:30,598 - Luma Store -INFO - Logo is displayed
-2024-05-31 19:08:30,635 - Luma Store -INFO - Sign In Button is displayed
-2024-05-31 19:08:30,667 - Luma Store -INFO - Create an Account Button is displayed
-2024-05-31 19:08:30,698 - Luma Store -INFO - Support Button is displayed
-2024-05-31 19:08:30,712 - Luma Store -INFO - Index Page Test is passed
-2024-05-31 19:08:41,944 - Luma Store -INFO - URL is opened
-2024-05-31 19:08:43,455 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:08:48,795 - Luma Store -INFO - Email is entered
-2024-05-31 19:08:49,940 - Luma Store -INFO - Password is entered
-2024-05-31 19:08:55,394 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:09:00,415 - Luma Store -INFO - User is loged In
-2024-05-31 19:09:00,417 - Luma Store -INFO - Login Page Test is passed
-2024-05-31 19:09:09,087 - Luma Store -INFO - URL is opened
-2024-05-31 19:09:10,501 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:09:10,501 - Luma Store -INFO - User is on Login Page
-2024-05-31 19:09:15,807 - Luma Store -INFO - Email is entered
-2024-05-31 19:09:17,015 - Luma Store -INFO - Password is entered
-2024-05-31 19:09:21,926 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:09:21,927 - Luma Store -INFO - User is loged In
-2024-05-31 19:09:27,014 - Luma Store -INFO - Welcome Text is displayed
-2024-05-31 19:09:27,087 - Luma Store -INFO - Header Menu is displayed
-2024-05-31 19:09:27,108 - Luma Store -INFO - Home Page Test is passed
-2024-05-31 19:09:39,849 - Luma Store -INFO - URL is opened
-2024-05-31 19:09:41,463 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:09:41,463 - Luma Store -INFO - User is on Login Page
-2024-05-31 19:09:46,750 - Luma Store -INFO - Email is entered
-2024-05-31 19:09:47,989 - Luma Store -INFO - Password is entered
-2024-05-31 19:09:52,227 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:09:52,228 - Luma Store -INFO - User is loged In
-2024-05-31 19:09:57,468 - Luma Store -INFO - Product name is entered
-2024-05-31 19:10:07,422 - Luma Store -INFO - Search Result Page is opened
-2024-05-31 19:10:12,507 - Luma Store -INFO - List of Product is displayed
-2024-05-31 19:10:12,550 - Luma Store -INFO - Product Image is displayed
-2024-05-31 19:10:12,585 - Luma Store -INFO - Product Name is displayed
-2024-05-31 19:10:12,623 - Luma Store -INFO - Product Price is displayed
-2024-05-31 19:10:12,758 - Luma Store -INFO - First Product Size is choosed
-2024-05-31 19:10:13,949 - Luma Store -INFO - First Product Color is choosed
-2024-05-31 19:10:15,174 - Luma Store -INFO - First Add to Cart Button is clicked
-2024-05-31 19:10:16,358 - Luma Store -INFO - Second Product Size is choosed
-2024-05-31 19:10:17,525 - Luma Store -INFO - Second Product Color is choosed
-2024-05-31 19:10:18,712 - Luma Store -INFO - Second Add to Cart Button is clicked
-2024-05-31 19:10:19,801 - Luma Store -INFO - Third Product Size is choosed
-2024-05-31 19:10:20,881 - Luma Store -INFO - Third Product Color is choosed
-2024-05-31 19:10:21,980 - Luma Store -INFO - Third Add to Cart Button is clicked
-2024-05-31 19:10:23,011 - Luma Store -INFO - Search Result Page Test is passed
-2024-05-31 19:10:31,764 - Luma Store -INFO - URL is opened
-2024-05-31 19:10:33,343 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:10:33,344 - Luma Store -INFO - User is on Login Page
-2024-05-31 19:10:38,667 - Luma Store -INFO - Email is entered
-2024-05-31 19:10:39,916 - Luma Store -INFO - Password is entered
-2024-05-31 19:10:46,281 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:10:46,282 - Luma Store -INFO - User is loged In
-2024-05-31 19:10:51,479 - Luma Store -INFO - Cart is opened
-2024-05-31 19:11:23,528 - Luma Store -INFO - Shopping Cart Page is opened
-2024-05-31 19:11:28,611 - Luma Store -INFO - Counter Number is displayed
-2024-05-31 19:11:28,678 - Luma Store -INFO - Product Image is displayed
-2024-05-31 19:11:28,711 - Luma Store -INFO - Product Detail is displayed
-2024-05-31 19:11:28,736 - Luma Store -INFO - Product Quantity is displayed
-2024-05-31 19:11:28,763 - Luma Store -INFO - Subtotal Price is displayed
-2024-05-31 19:11:35,748 - Luma Store -INFO - Second Product is moved to wishlist
-2024-05-31 19:11:44,826 - Luma Store -INFO - Third Product is removed
-2024-05-31 19:11:49,905 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 19:11:49,968 - Luma Store -INFO - Total Price is displayed
-2024-05-31 19:11:49,986 - Luma Store -INFO - Shopping Cart Page Test is passed
-2024-05-31 19:12:01,113 - Luma Store -INFO - URL is opened
-2024-05-31 19:12:02,601 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:12:02,602 - Luma Store -INFO - User is on Login Page
-2024-05-31 19:12:07,811 - Luma Store -INFO - Email is entered
-2024-05-31 19:12:08,943 - Luma Store -INFO - Password is entered
-2024-05-31 19:12:12,980 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:12:12,981 - Luma Store -INFO - User is loged In
-2024-05-31 19:12:18,193 - Luma Store -INFO - Profile Menu is clicked
-2024-05-31 19:18:05,446 - Luma Store -INFO - URL is opened
-2024-05-31 19:18:07,008 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:18:07,009 - Luma Store -INFO - User is on Login Page
-2024-05-31 19:18:12,205 - Luma Store -INFO - Email is entered
-2024-05-31 19:18:13,466 - Luma Store -INFO - Password is entered
-2024-05-31 19:18:18,593 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:18:18,594 - Luma Store -INFO - User is loged In
-2024-05-31 19:18:23,792 - Luma Store -INFO - Profile Menu is clicked
-2024-05-31 19:18:58,177 - Luma Store -INFO - My Wishlist Page is opened
-2024-05-31 19:19:03,289 - Luma Store -INFO - Wishlist Product is displayed
-2024-05-31 19:19:07,305 - Luma Store -INFO - Wishlist Product is removed
-2024-05-31 19:19:12,339 - Luma Store -INFO - My Wishlist Page Page Test is passed
-2024-05-31 19:48:58,617 - Luma Store -INFO - URL is opened
-2024-05-31 19:49:00,111 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:49:00,112 - Luma Store -INFO - User is on Login Page
-2024-05-31 19:49:05,282 - Luma Store -INFO - Email is entered
-2024-05-31 19:49:06,424 - Luma Store -INFO - Password is entered
-2024-05-31 19:49:11,164 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:49:11,165 - Luma Store -INFO - User is loged In
-2024-05-31 19:49:16,301 - Luma Store -INFO - Cart is opened
-2024-05-31 19:50:18,957 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 19:50:39,836 - Luma Store -INFO - URL is opened
-2024-05-31 19:50:42,355 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:50:42,357 - Luma Store -INFO - User is on Login Page
-2024-05-31 19:50:47,524 - Luma Store -INFO - Email is entered
-2024-05-31 19:50:48,667 - Luma Store -INFO - Password is entered
-2024-05-31 19:50:54,544 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:50:54,545 - Luma Store -INFO - User is loged In
-2024-05-31 19:50:59,660 - Luma Store -INFO - Cart is opened
-2024-05-31 19:51:33,504 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 19:51:38,568 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 19:58:36,032 - Luma Store -INFO - URL is opened
-2024-05-31 19:58:37,569 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:58:37,570 - Luma Store -INFO - User is on Login Page
-2024-05-31 19:58:42,759 - Luma Store -INFO - Email is entered
-2024-05-31 19:58:43,905 - Luma Store -INFO - Password is entered
-2024-05-31 19:58:48,698 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 19:58:48,698 - Luma Store -INFO - User is loged In
-2024-05-31 19:58:53,826 - Luma Store -INFO - Cart is opened
-2024-05-31 19:59:27,440 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 19:59:32,500 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 19:59:32,671 - Luma Store -INFO - Street is entered
-2024-05-31 19:59:32,835 - Luma Store -INFO - City is entered
-2024-05-31 19:59:32,966 - Luma Store -INFO - Province is selected
-2024-05-31 19:59:33,062 - Luma Store -INFO - Postcode is entered
-2024-05-31 19:59:33,192 - Luma Store -INFO - Phone Number is entered
-2024-05-31 19:59:33,260 - Luma Store -INFO - Shipping Method is selected
-2024-05-31 19:59:33,336 - Luma Store -INFO - Next button is clicked
-2024-05-31 19:59:33,349 - Luma Store -INFO - Checkout Page Test is passed
-2024-05-31 20:03:30,402 - Luma Store -INFO - URL is opened
-2024-05-31 20:03:31,958 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:03:31,960 - Luma Store -INFO - User is on Login Page
-2024-05-31 20:03:37,153 - Luma Store -INFO - Email is entered
-2024-05-31 20:03:38,311 - Luma Store -INFO - Password is entered
-2024-05-31 20:03:42,403 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:03:42,405 - Luma Store -INFO - User is loged In
-2024-05-31 20:03:47,540 - Luma Store -INFO - Cart is opened
-2024-05-31 20:04:22,018 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 20:04:27,097 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 20:04:27,246 - Luma Store -INFO - Street is entered
-2024-05-31 20:04:28,431 - Luma Store -INFO - City is entered
-2024-05-31 20:04:29,579 - Luma Store -INFO - Province is selected
-2024-05-31 20:04:30,712 - Luma Store -INFO - Postcode is entered
-2024-05-31 20:04:31,902 - Luma Store -INFO - Phone Number is entered
-2024-05-31 20:11:26,843 - Luma Store -INFO - URL is opened
-2024-05-31 20:11:28,310 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:11:28,312 - Luma Store -INFO - User is on Login Page
-2024-05-31 20:11:33,498 - Luma Store -INFO - Email is entered
-2024-05-31 20:11:34,607 - Luma Store -INFO - Password is entered
-2024-05-31 20:11:38,448 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:11:38,449 - Luma Store -INFO - User is loged In
-2024-05-31 20:11:43,570 - Luma Store -INFO - Cart is opened
-2024-05-31 20:12:15,730 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 20:12:20,786 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 20:12:20,975 - Luma Store -INFO - Street is entered
-2024-05-31 20:12:22,155 - Luma Store -INFO - City is entered
-2024-05-31 20:12:23,295 - Luma Store -INFO - Province is selected
-2024-05-31 20:12:24,437 - Luma Store -INFO - Postcode is entered
-2024-05-31 20:12:25,605 - Luma Store -INFO - Phone Number is entered
-2024-05-31 20:14:35,755 - Luma Store -INFO - URL is opened
-2024-05-31 20:14:37,267 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:14:37,267 - Luma Store -INFO - User is on Login Page
-2024-05-31 20:14:42,490 - Luma Store -INFO - Email is entered
-2024-05-31 20:14:43,613 - Luma Store -INFO - Password is entered
-2024-05-31 20:14:49,858 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:14:49,858 - Luma Store -INFO - User is loged In
-2024-05-31 20:14:54,987 - Luma Store -INFO - Cart is opened
-2024-05-31 20:15:18,939 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 20:15:24,004 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 20:15:24,196 - Luma Store -INFO - Street is entered
-2024-05-31 20:15:25,394 - Luma Store -INFO - City is entered
-2024-05-31 20:15:26,548 - Luma Store -INFO - Province is selected
-2024-05-31 20:15:27,668 - Luma Store -INFO - Postcode is entered
-2024-05-31 20:15:28,837 - Luma Store -INFO - Phone Number is entered
-2024-05-31 20:17:44,929 - Luma Store -INFO - URL is opened
-2024-05-31 20:17:46,304 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:17:46,304 - Luma Store -INFO - User is on Login Page
-2024-05-31 20:17:51,485 - Luma Store -INFO - Email is entered
-2024-05-31 20:17:52,625 - Luma Store -INFO - Password is entered
-2024-05-31 20:17:56,973 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:17:56,974 - Luma Store -INFO - User is loged In
-2024-05-31 20:18:02,093 - Luma Store -INFO - Cart is opened
-2024-05-31 20:18:22,125 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 20:18:45,675 - Luma Store -INFO - URL is opened
-2024-05-31 20:18:47,240 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:18:47,241 - Luma Store -INFO - User is on Login Page
-2024-05-31 20:18:52,441 - Luma Store -INFO - Email is entered
-2024-05-31 20:18:53,549 - Luma Store -INFO - Password is entered
-2024-05-31 20:18:58,960 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:18:58,961 - Luma Store -INFO - User is loged In
-2024-05-31 20:19:04,131 - Luma Store -INFO - Cart is opened
-2024-05-31 20:19:37,776 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 20:19:42,844 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 20:19:42,981 - Luma Store -INFO - Street is entered
-2024-05-31 20:19:44,170 - Luma Store -INFO - City is entered
-2024-05-31 20:19:45,336 - Luma Store -INFO - Province is selected
-2024-05-31 20:19:46,448 - Luma Store -INFO - Postcode is entered
-2024-05-31 20:19:47,634 - Luma Store -INFO - Phone Number is entered
-2024-05-31 20:22:00,703 - Luma Store -INFO - URL is opened
-2024-05-31 20:22:02,178 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:22:02,180 - Luma Store -INFO - User is on Login Page
-2024-05-31 20:22:07,424 - Luma Store -INFO - Email is entered
-2024-05-31 20:22:08,550 - Luma Store -INFO - Password is entered
-2024-05-31 20:22:13,331 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:22:13,332 - Luma Store -INFO - User is loged In
-2024-05-31 20:22:18,473 - Luma Store -INFO - Cart is opened
-2024-05-31 20:22:48,624 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 20:22:53,710 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 20:22:53,867 - Luma Store -INFO - Street is entered
-2024-05-31 20:22:55,027 - Luma Store -INFO - City is entered
-2024-05-31 20:22:56,191 - Luma Store -INFO - Province is selected
-2024-05-31 20:22:57,318 - Luma Store -INFO - Postcode is entered
-2024-05-31 20:22:58,483 - Luma Store -INFO - Phone Number is entered
-2024-05-31 20:24:57,799 - Luma Store -INFO - URL is opened
-2024-05-31 20:24:59,103 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:24:59,105 - Luma Store -INFO - User is on Login Page
-2024-05-31 20:25:04,287 - Luma Store -INFO - Email is entered
-2024-05-31 20:25:05,417 - Luma Store -INFO - Password is entered
-2024-05-31 20:25:09,717 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:25:09,717 - Luma Store -INFO - User is loged In
-2024-05-31 20:25:14,885 - Luma Store -INFO - Cart is opened
-2024-05-31 20:25:56,036 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 20:26:01,122 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 20:26:01,280 - Luma Store -INFO - Street is entered
-2024-05-31 20:26:02,447 - Luma Store -INFO - City is entered
-2024-05-31 20:26:03,599 - Luma Store -INFO - Province is selected
-2024-05-31 20:26:04,748 - Luma Store -INFO - Postcode is entered
-2024-05-31 20:26:05,920 - Luma Store -INFO - Phone Number is entered
-2024-05-31 20:27:13,178 - Luma Store -INFO - URL is opened
-2024-05-31 20:27:14,584 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:27:14,584 - Luma Store -INFO - User is on Login Page
-2024-05-31 20:27:19,767 - Luma Store -INFO - Email is entered
-2024-05-31 20:27:20,907 - Luma Store -INFO - Password is entered
-2024-05-31 20:27:27,411 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:27:27,412 - Luma Store -INFO - User is loged In
-2024-05-31 20:27:32,568 - Luma Store -INFO - Cart is opened
-2024-05-31 20:28:06,390 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 20:28:11,451 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 20:28:11,599 - Luma Store -INFO - Street is entered
-2024-05-31 20:28:12,768 - Luma Store -INFO - City is entered
-2024-05-31 20:28:13,924 - Luma Store -INFO - Province is selected
-2024-05-31 20:28:15,061 - Luma Store -INFO - Postcode is entered
-2024-05-31 20:28:16,196 - Luma Store -INFO - Phone Number is entered
-2024-05-31 20:29:24,804 - Luma Store -INFO - URL is opened
-2024-05-31 20:29:26,170 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:29:26,171 - Luma Store -INFO - User is on Login Page
-2024-05-31 20:29:31,352 - Luma Store -INFO - Email is entered
-2024-05-31 20:29:32,488 - Luma Store -INFO - Password is entered
-2024-05-31 20:29:36,561 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:29:36,561 - Luma Store -INFO - User is loged In
-2024-05-31 20:29:41,689 - Luma Store -INFO - Cart is opened
-2024-05-31 20:30:16,035 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 20:30:21,116 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 20:30:21,264 - Luma Store -INFO - Street is entered
-2024-05-31 20:30:22,424 - Luma Store -INFO - City is entered
-2024-05-31 20:30:23,567 - Luma Store -INFO - Province is selected
-2024-05-31 20:30:24,688 - Luma Store -INFO - Postcode is entered
-2024-05-31 20:30:25,830 - Luma Store -INFO - Phone Number is entered
-2024-05-31 20:31:37,683 - Luma Store -INFO - URL is opened
-2024-05-31 20:31:39,061 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:31:39,062 - Luma Store -INFO - User is on Login Page
-2024-05-31 20:31:44,233 - Luma Store -INFO - Email is entered
-2024-05-31 20:31:45,362 - Luma Store -INFO - Password is entered
-2024-05-31 20:31:50,009 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:31:50,010 - Luma Store -INFO - User is loged In
-2024-05-31 20:31:55,120 - Luma Store -INFO - Cart is opened
-2024-05-31 20:32:32,436 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 20:32:56,383 - Luma Store -INFO - URL is opened
-2024-05-31 20:32:57,664 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:32:57,665 - Luma Store -INFO - User is on Login Page
-2024-05-31 20:33:02,870 - Luma Store -INFO - Email is entered
-2024-05-31 20:33:04,016 - Luma Store -INFO - Password is entered
-2024-05-31 20:33:08,384 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 20:33:08,386 - Luma Store -INFO - User is loged In
-2024-05-31 20:33:13,522 - Luma Store -INFO - Cart is opened
-2024-05-31 20:33:48,977 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 20:33:54,045 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 20:33:54,181 - Luma Store -INFO - Street is entered
-2024-05-31 20:33:55,357 - Luma Store -INFO - City is entered
-2024-05-31 20:33:56,499 - Luma Store -INFO - Province is selected
-2024-05-31 20:33:57,637 - Luma Store -INFO - Postcode is entered
-2024-05-31 20:33:58,829 - Luma Store -INFO - Phone Number is entered
-2024-05-31 20:34:03,832 - Luma Store -INFO - Shipping Method is selected
-2024-05-31 20:34:04,946 - Luma Store -INFO - Next button is clicked
-2024-05-31 20:34:09,971 - Luma Store -INFO - Checkout Page Test is passed
-2024-05-31 21:28:40,067 - Luma Store -INFO - URL is opened
-2024-05-31 21:28:42,504 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:28:42,505 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:28:47,723 - Luma Store -INFO - Email is entered
-2024-05-31 21:28:48,859 - Luma Store -INFO - Password is entered
-2024-05-31 21:28:54,539 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:28:54,539 - Luma Store -INFO - User is loged In
-2024-05-31 21:28:59,668 - Luma Store -INFO - Cart is opened
-2024-05-31 21:29:24,389 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 21:29:29,460 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 21:29:29,461 - Luma Store -INFO - Street is entered
-2024-05-31 21:29:30,474 - Luma Store -INFO - City is entered
-2024-05-31 21:29:31,478 - Luma Store -INFO - Province is selected
-2024-05-31 21:29:32,493 - Luma Store -INFO - Postcode is entered
-2024-05-31 21:29:33,501 - Luma Store -INFO - Phone Number is entered
-2024-05-31 21:29:34,510 - Luma Store -INFO - Shipping Method is selected
-2024-05-31 21:29:35,612 - Luma Store -INFO - Next button is clicked
-2024-05-31 21:29:40,766 - Luma Store -INFO - Place Order button is clicked
-2024-05-31 21:29:45,793 - Luma Store -INFO - Checkout Page Test is passed
-2024-05-31 21:30:58,743 - Luma Store -INFO - URL is opened
-2024-05-31 21:30:58,838 - Luma Store -INFO - Logo is displayed
-2024-05-31 21:30:58,883 - Luma Store -INFO - Sign In Button is displayed
-2024-05-31 21:30:58,916 - Luma Store -INFO - Create an Account Button is displayed
-2024-05-31 21:30:58,944 - Luma Store -INFO - Support Button is displayed
-2024-05-31 21:30:58,955 - Luma Store -INFO - Index Page Test is passed
-2024-05-31 21:31:08,828 - Luma Store -INFO - URL is opened
-2024-05-31 21:31:10,244 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:31:15,437 - Luma Store -INFO - Email is entered
-2024-05-31 21:31:16,536 - Luma Store -INFO - Password is entered
-2024-05-31 21:31:20,804 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:31:25,822 - Luma Store -INFO - User is loged In
-2024-05-31 21:31:25,823 - Luma Store -INFO - Login Page Test is passed
-2024-05-31 21:31:46,697 - Luma Store -INFO - URL is opened
-2024-05-31 21:31:48,077 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:31:48,078 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:31:53,269 - Luma Store -INFO - Email is entered
-2024-05-31 21:31:54,411 - Luma Store -INFO - Password is entered
-2024-05-31 21:32:00,444 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:32:00,445 - Luma Store -INFO - User is loged In
-2024-05-31 21:32:05,506 - Luma Store -INFO - Welcome Text is displayed
-2024-05-31 21:32:05,542 - Luma Store -INFO - Header Menu is displayed
-2024-05-31 21:32:05,552 - Luma Store -INFO - Home Page Test is passed
-2024-05-31 21:32:17,082 - Luma Store -INFO - URL is opened
-2024-05-31 21:32:18,449 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:32:18,449 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:32:23,647 - Luma Store -INFO - Email is entered
-2024-05-31 21:32:24,767 - Luma Store -INFO - Password is entered
-2024-05-31 21:32:28,936 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:32:28,936 - Luma Store -INFO - User is loged In
-2024-05-31 21:32:34,073 - Luma Store -INFO - Product name is entered
-2024-05-31 21:33:22,742 - Luma Store -INFO - Search Result Page is opened
-2024-05-31 21:33:37,074 - Luma Store -INFO - URL is opened
-2024-05-31 21:33:37,288 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:33:37,289 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:33:59,117 - Luma Store -INFO - URL is opened
-2024-05-31 21:33:59,218 - Luma Store -INFO - Logo is displayed
-2024-05-31 21:33:59,251 - Luma Store -INFO - Sign In Button is displayed
-2024-05-31 21:33:59,278 - Luma Store -INFO - Create an Account Button is displayed
-2024-05-31 21:33:59,306 - Luma Store -INFO - Support Button is displayed
-2024-05-31 21:33:59,315 - Luma Store -INFO - Index Page Test is passed
-2024-05-31 21:34:12,412 - Luma Store -INFO - URL is opened
-2024-05-31 21:34:13,946 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:34:19,137 - Luma Store -INFO - Email is entered
-2024-05-31 21:34:20,252 - Luma Store -INFO - Password is entered
-2024-05-31 21:34:25,263 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:34:30,289 - Luma Store -INFO - User is loged In
-2024-05-31 21:34:30,290 - Luma Store -INFO - Login Page Test is passed
-2024-05-31 21:34:40,581 - Luma Store -INFO - URL is opened
-2024-05-31 21:34:41,914 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:34:41,916 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:34:47,109 - Luma Store -INFO - Email is entered
-2024-05-31 21:34:48,216 - Luma Store -INFO - Password is entered
-2024-05-31 21:34:53,329 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:34:53,329 - Luma Store -INFO - User is loged In
-2024-05-31 21:34:58,402 - Luma Store -INFO - Welcome Text is displayed
-2024-05-31 21:34:58,439 - Luma Store -INFO - Header Menu is displayed
-2024-05-31 21:34:58,450 - Luma Store -INFO - Home Page Test is passed
-2024-05-31 21:35:08,551 - Luma Store -INFO - URL is opened
-2024-05-31 21:35:10,245 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:35:10,246 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:35:15,430 - Luma Store -INFO - Email is entered
-2024-05-31 21:35:16,551 - Luma Store -INFO - Password is entered
-2024-05-31 21:35:24,060 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:35:24,061 - Luma Store -INFO - User is loged In
-2024-05-31 21:35:29,179 - Luma Store -INFO - Product name is entered
-2024-05-31 21:36:40,866 - Luma Store -INFO - Search Result Page is opened
-2024-05-31 21:36:58,259 - Luma Store -INFO - URL is opened
-2024-05-31 21:36:58,352 - Luma Store -INFO - Logo is displayed
-2024-05-31 21:36:58,397 - Luma Store -INFO - Sign In Button is displayed
-2024-05-31 21:36:58,436 - Luma Store -INFO - Create an Account Button is displayed
-2024-05-31 21:36:58,474 - Luma Store -INFO - Support Button is displayed
-2024-05-31 21:36:58,484 - Luma Store -INFO - Index Page Test is passed
-2024-05-31 21:37:08,295 - Luma Store -INFO - URL is opened
-2024-05-31 21:37:09,665 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:37:14,836 - Luma Store -INFO - Email is entered
-2024-05-31 21:37:15,978 - Luma Store -INFO - Password is entered
-2024-05-31 21:37:22,103 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:37:27,127 - Luma Store -INFO - User is loged In
-2024-05-31 21:37:27,128 - Luma Store -INFO - Login Page Test is passed
-2024-05-31 21:37:36,946 - Luma Store -INFO - URL is opened
-2024-05-31 21:37:38,399 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:37:38,401 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:37:43,549 - Luma Store -INFO - Email is entered
-2024-05-31 21:37:44,652 - Luma Store -INFO - Password is entered
-2024-05-31 21:37:48,725 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:37:48,726 - Luma Store -INFO - User is loged In
-2024-05-31 21:37:53,767 - Luma Store -INFO - Welcome Text is displayed
-2024-05-31 21:37:53,797 - Luma Store -INFO - Header Menu is displayed
-2024-05-31 21:37:53,806 - Luma Store -INFO - Home Page Test is passed
-2024-05-31 21:38:05,388 - Luma Store -INFO - URL is opened
-2024-05-31 21:38:06,764 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:38:06,765 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:38:11,917 - Luma Store -INFO - Email is entered
-2024-05-31 21:38:13,065 - Luma Store -INFO - Password is entered
-2024-05-31 21:38:17,434 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:38:17,435 - Luma Store -INFO - User is loged In
-2024-05-31 21:38:22,571 - Luma Store -INFO - Product name is entered
-2024-05-31 21:38:34,480 - Luma Store -INFO - Search Result Page is opened
-2024-05-31 21:38:39,565 - Luma Store -INFO - List of Product is displayed
-2024-05-31 21:38:39,609 - Luma Store -INFO - Product Image is displayed
-2024-05-31 21:38:39,632 - Luma Store -INFO - Product Name is displayed
-2024-05-31 21:38:39,658 - Luma Store -INFO - Product Price is displayed
-2024-05-31 21:38:39,759 - Luma Store -INFO - First Product Size is choosed
-2024-05-31 21:38:40,869 - Luma Store -INFO - First Product Color is choosed
-2024-05-31 21:38:42,004 - Luma Store -INFO - First Add to Cart Button is clicked
-2024-05-31 21:38:43,117 - Luma Store -INFO - Second Product Size is choosed
-2024-05-31 21:38:44,198 - Luma Store -INFO - Second Product Color is choosed
-2024-05-31 21:38:45,310 - Luma Store -INFO - Second Add to Cart Button is clicked
-2024-05-31 21:38:46,421 - Luma Store -INFO - Third Product Size is choosed
-2024-05-31 21:38:47,504 - Luma Store -INFO - Third Product Color is choosed
-2024-05-31 21:38:48,646 - Luma Store -INFO - Third Add to Cart Button is clicked
-2024-05-31 21:38:49,670 - Luma Store -INFO - Search Result Page Test is passed
-2024-05-31 21:38:59,325 - Luma Store -INFO - URL is opened
-2024-05-31 21:39:00,649 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:39:00,649 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:39:05,840 - Luma Store -INFO - Email is entered
-2024-05-31 21:39:06,978 - Luma Store -INFO - Password is entered
-2024-05-31 21:39:11,685 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:39:11,685 - Luma Store -INFO - User is loged In
-2024-05-31 21:39:16,798 - Luma Store -INFO - Cart is opened
-2024-05-31 21:39:29,335 - Luma Store -INFO - Shopping Cart Page is opened
-2024-05-31 21:39:34,378 - Luma Store -INFO - Counter Number is displayed
-2024-05-31 21:39:34,414 - Luma Store -INFO - Product Image is displayed
-2024-05-31 21:39:34,447 - Luma Store -INFO - Product Detail is displayed
-2024-05-31 21:39:34,476 - Luma Store -INFO - Product Quantity is displayed
-2024-05-31 21:39:34,504 - Luma Store -INFO - Subtotal Price is displayed
-2024-05-31 21:39:40,105 - Luma Store -INFO - Second Product is moved to wishlist
-2024-05-31 21:39:54,802 - Luma Store -INFO - Third Product is removed
-2024-05-31 21:39:59,841 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 21:39:59,888 - Luma Store -INFO - Total Price is displayed
-2024-05-31 21:39:59,896 - Luma Store -INFO - Shopping Cart Page Test is passed
-2024-05-31 21:40:09,995 - Luma Store -INFO - URL is opened
-2024-05-31 21:40:11,854 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:40:11,855 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:40:17,064 - Luma Store -INFO - Email is entered
-2024-05-31 21:40:18,218 - Luma Store -INFO - Password is entered
-2024-05-31 21:40:22,307 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:40:22,308 - Luma Store -INFO - User is loged In
-2024-05-31 21:40:27,428 - Luma Store -INFO - Profile Menu is clicked
-2024-05-31 21:40:31,048 - Luma Store -INFO - My Wishlist Page is opened
-2024-05-31 21:40:36,123 - Luma Store -INFO - Wishlist Product is displayed
-2024-05-31 21:40:50,782 - Luma Store -INFO - Wishlist Product is removed
-2024-05-31 21:40:55,797 - Luma Store -INFO - My Wishlist Page Page Test is passed
-2024-05-31 21:41:05,295 - Luma Store -INFO - URL is opened
-2024-05-31 21:41:06,686 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:41:06,686 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:41:11,868 - Luma Store -INFO - Email is entered
-2024-05-31 21:41:12,987 - Luma Store -INFO - Password is entered
-2024-05-31 21:41:16,941 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:41:16,941 - Luma Store -INFO - User is loged In
-2024-05-31 21:41:22,059 - Luma Store -INFO - Cart is opened
-2024-05-31 21:42:53,065 - Luma Store -INFO - URL is opened
-2024-05-31 21:42:54,467 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:42:54,468 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:42:59,646 - Luma Store -INFO - Email is entered
-2024-05-31 21:43:00,776 - Luma Store -INFO - Password is entered
-2024-05-31 21:43:04,443 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:43:04,443 - Luma Store -INFO - User is loged In
-2024-05-31 21:43:09,566 - Luma Store -INFO - Cart is opened
-2024-05-31 21:43:45,269 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 21:43:50,329 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 21:43:50,330 - Luma Store -INFO - Street is entered
-2024-05-31 21:43:51,340 - Luma Store -INFO - City is entered
-2024-05-31 21:43:52,347 - Luma Store -INFO - Province is selected
-2024-05-31 21:43:53,357 - Luma Store -INFO - Postcode is entered
-2024-05-31 21:43:54,364 - Luma Store -INFO - Phone Number is entered
-2024-05-31 21:43:55,370 - Luma Store -INFO - Shipping Method is selected
-2024-05-31 21:43:56,468 - Luma Store -INFO - Next button is clicked
-2024-05-31 21:45:11,392 - Luma Store -INFO - URL is opened
-2024-05-31 21:45:13,156 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:45:13,157 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:45:18,364 - Luma Store -INFO - Email is entered
-2024-05-31 21:45:19,484 - Luma Store -INFO - Password is entered
-2024-05-31 21:45:24,282 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:45:24,283 - Luma Store -INFO - User is loged In
-2024-05-31 21:45:29,417 - Luma Store -INFO - Cart is opened
-2024-05-31 21:46:26,246 - Luma Store -INFO - Checkout Page is opened
-2024-05-31 21:46:31,330 - Luma Store -INFO - Order Summary is displayed
-2024-05-31 21:46:31,330 - Luma Store -INFO - Street is entered
-2024-05-31 21:46:32,342 - Luma Store -INFO - City is entered
-2024-05-31 21:46:33,345 - Luma Store -INFO - Province is selected
-2024-05-31 21:46:34,352 - Luma Store -INFO - Postcode is entered
-2024-05-31 21:46:35,360 - Luma Store -INFO - Phone Number is entered
-2024-05-31 21:46:36,467 - Luma Store -INFO - Shipping Method is selected
-2024-05-31 21:46:41,582 - Luma Store -INFO - Next button is clicked
-2024-05-31 21:46:46,736 - Luma Store -INFO - Place Order button is clicked
-2024-05-31 21:46:51,756 - Luma Store -INFO - Checkout Page Test is passed
-2024-05-31 21:47:28,582 - Luma Store -INFO - URL is opened
-2024-05-31 21:47:28,671 - Luma Store -INFO - Logo is displayed
-2024-05-31 21:47:28,703 - Luma Store -INFO - Sign In Button is displayed
-2024-05-31 21:47:28,730 - Luma Store -INFO - Create an Account Button is displayed
-2024-05-31 21:47:28,757 - Luma Store -INFO - Support Button is displayed
-2024-05-31 21:47:28,768 - Luma Store -INFO - Index Page Test is passed
-2024-05-31 21:47:37,810 - Luma Store -INFO - URL is opened
-2024-05-31 21:47:39,213 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:47:44,413 - Luma Store -INFO - Email is entered
-2024-05-31 21:47:45,521 - Luma Store -INFO - Password is entered
-2024-05-31 21:47:49,457 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:47:54,480 - Luma Store -INFO - User is loged In
-2024-05-31 21:47:54,481 - Luma Store -INFO - Login Page Test is passed
-2024-05-31 21:48:05,171 - Luma Store -INFO - URL is opened
-2024-05-31 21:48:06,596 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:48:06,597 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:48:11,754 - Luma Store -INFO - Email is entered
-2024-05-31 21:48:12,894 - Luma Store -INFO - Password is entered
-2024-05-31 21:48:17,556 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:48:17,557 - Luma Store -INFO - User is loged In
-2024-05-31 21:48:22,630 - Luma Store -INFO - Welcome Text is displayed
-2024-05-31 21:48:22,663 - Luma Store -INFO - Header Menu is displayed
-2024-05-31 21:48:22,670 - Luma Store -INFO - Home Page Test is passed
-2024-05-31 21:48:32,193 - Luma Store -INFO - URL is opened
-2024-05-31 21:48:33,708 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:48:33,709 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:48:38,855 - Luma Store -INFO - Email is entered
-2024-05-31 21:48:39,993 - Luma Store -INFO - Password is entered
-2024-05-31 21:48:43,993 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:48:43,994 - Luma Store -INFO - User is loged In
-2024-05-31 21:48:49,162 - Luma Store -INFO - Product name is entered
-2024-05-31 21:49:21,925 - Luma Store -INFO - Search Result Page is opened
-2024-05-31 21:49:26,990 - Luma Store -INFO - List of Product is displayed
-2024-05-31 21:49:27,019 - Luma Store -INFO - Product Image is displayed
-2024-05-31 21:49:27,039 - Luma Store -INFO - Product Name is displayed
-2024-05-31 21:49:27,066 - Luma Store -INFO - Product Price is displayed
-2024-05-31 21:49:27,159 - Luma Store -INFO - First Product Size is choosed
-2024-05-31 21:49:28,278 - Luma Store -INFO - First Product Color is choosed
-2024-05-31 21:49:29,409 - Luma Store -INFO - First Add to Cart Button is clicked
-2024-05-31 21:49:30,519 - Luma Store -INFO - Second Product Size is choosed
-2024-05-31 21:49:31,638 - Luma Store -INFO - Second Product Color is choosed
-2024-05-31 21:49:32,757 - Luma Store -INFO - Second Add to Cart Button is clicked
-2024-05-31 21:49:33,848 - Luma Store -INFO - Third Product Size is choosed
-2024-05-31 21:49:34,954 - Luma Store -INFO - Third Product Color is choosed
-2024-05-31 21:49:36,074 - Luma Store -INFO - Third Add to Cart Button is clicked
-2024-05-31 21:49:37,111 - Luma Store -INFO - Search Result Page Test is passed
-2024-05-31 21:49:45,769 - Luma Store -INFO - URL is opened
-2024-05-31 21:49:48,259 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:49:48,260 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:49:53,406 - Luma Store -INFO - Email is entered
-2024-05-31 21:49:54,543 - Luma Store -INFO - Password is entered
-2024-05-31 21:50:00,204 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:50:00,205 - Luma Store -INFO - User is loged In
-2024-05-31 21:50:05,295 - Luma Store -INFO - Cart is opened
-2024-05-31 21:50:55,183 - Luma Store -INFO - Shopping Cart Page is opened
-2024-05-31 21:52:51,866 - Luma Store -INFO - URL is opened
-2024-05-31 21:52:51,960 - Luma Store -INFO - Logo is displayed
-2024-05-31 21:52:51,994 - Luma Store -INFO - Sign In Button is displayed
-2024-05-31 21:52:52,023 - Luma Store -INFO - Create an Account Button is displayed
-2024-05-31 21:52:52,049 - Luma Store -INFO - Support Button is displayed
-2024-05-31 21:52:52,061 - Luma Store -INFO - Index Page Test is passed
-2024-05-31 21:53:02,451 - Luma Store -INFO - URL is opened
-2024-05-31 21:53:03,826 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:53:09,017 - Luma Store -INFO - Email is entered
-2024-05-31 21:53:10,124 - Luma Store -INFO - Password is entered
-2024-05-31 21:53:15,678 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:53:20,698 - Luma Store -INFO - User is loged In
-2024-05-31 21:53:20,699 - Luma Store -INFO - Login Page Test is passed
-2024-05-31 21:53:31,241 - Luma Store -INFO - URL is opened
-2024-05-31 21:53:32,718 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:53:32,719 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:53:37,902 - Luma Store -INFO - Email is entered
-2024-05-31 21:53:39,012 - Luma Store -INFO - Password is entered
-2024-05-31 21:53:43,160 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:53:43,161 - Luma Store -INFO - User is loged In
-2024-05-31 21:53:48,233 - Luma Store -INFO - Welcome Text is displayed
-2024-05-31 21:53:48,268 - Luma Store -INFO - Header Menu is displayed
-2024-05-31 21:53:48,279 - Luma Store -INFO - Home Page Test is passed
-2024-05-31 21:54:00,864 - Luma Store -INFO - URL is opened
-2024-05-31 21:54:02,268 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:54:02,269 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:54:07,440 - Luma Store -INFO - Email is entered
-2024-05-31 21:54:08,542 - Luma Store -INFO - Password is entered
-2024-05-31 21:54:12,841 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:54:12,842 - Luma Store -INFO - User is loged In
-2024-05-31 21:54:17,972 - Luma Store -INFO - Product name is entered
-2024-05-31 21:58:00,229 - Luma Store -INFO - URL is opened
-2024-05-31 21:58:01,586 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:58:01,586 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:58:06,797 - Luma Store -INFO - Email is entered
-2024-05-31 21:58:07,947 - Luma Store -INFO - Password is entered
-2024-05-31 21:58:12,724 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:58:12,725 - Luma Store -INFO - User is loged In
-2024-05-31 21:58:17,869 - Luma Store -INFO - Cart is opened
-2024-05-31 21:58:30,739 - Luma Store -INFO - URL is opened
-2024-05-31 21:58:32,308 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:58:32,309 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:58:37,496 - Luma Store -INFO - Email is entered
-2024-05-31 21:58:38,615 - Luma Store -INFO - Password is entered
-2024-05-31 21:58:42,847 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:58:42,847 - Luma Store -INFO - User is loged In
-2024-05-31 21:58:47,959 - Luma Store -INFO - Profile Menu is clicked
-2024-05-31 21:58:52,047 - Luma Store -INFO - My Wishlist Page is opened
-2024-05-31 21:58:57,112 - Luma Store -INFO - Wishlist Product is displayed
-2024-05-31 21:59:09,398 - Luma Store -INFO - URL is opened
-2024-05-31 21:59:11,493 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:59:11,494 - Luma Store -INFO - User is on Login Page
-2024-05-31 21:59:16,660 - Luma Store -INFO - Email is entered
-2024-05-31 21:59:17,813 - Luma Store -INFO - Password is entered
-2024-05-31 21:59:21,829 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 21:59:21,830 - Luma Store -INFO - User is loged In
-2024-05-31 21:59:26,938 - Luma Store -INFO - Cart is opened
-2024-05-31 22:02:16,838 - Luma Store -INFO - URL is opened
-2024-05-31 22:02:16,925 - Luma Store -INFO - Logo is displayed
-2024-05-31 22:02:16,957 - Luma Store -INFO - Sign In Button is displayed
-2024-05-31 22:02:16,985 - Luma Store -INFO - Create an Account Button is displayed
-2024-05-31 22:02:17,014 - Luma Store -INFO - Support Button is displayed
-2024-05-31 22:02:17,028 - Luma Store -INFO - Index Page Test is passed
-2024-05-31 22:02:27,607 - Luma Store -INFO - URL is opened
-2024-05-31 22:02:29,248 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:02:34,432 - Luma Store -INFO - Email is entered
-2024-05-31 22:02:35,550 - Luma Store -INFO - Password is entered
-2024-05-31 22:02:41,971 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:02:46,994 - Luma Store -INFO - User is loged In
-2024-05-31 22:02:46,995 - Luma Store -INFO - Login Page Test is passed
-2024-05-31 22:02:56,959 - Luma Store -INFO - URL is opened
-2024-05-31 22:02:58,372 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:02:58,373 - Luma Store -INFO - User is on Login Page
-2024-05-31 22:03:03,592 - Luma Store -INFO - Email is entered
-2024-05-31 22:03:04,724 - Luma Store -INFO - Password is entered
-2024-05-31 22:03:10,538 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:03:10,539 - Luma Store -INFO - User is loged In
-2024-05-31 22:03:15,575 - Luma Store -INFO - Welcome Text is displayed
-2024-05-31 22:03:15,606 - Luma Store -INFO - Header Menu is displayed
-2024-05-31 22:03:15,615 - Luma Store -INFO - Home Page Test is passed
-2024-05-31 22:03:25,210 - Luma Store -INFO - URL is opened
-2024-05-31 22:03:26,696 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:03:26,698 - Luma Store -INFO - User is on Login Page
-2024-05-31 22:03:31,878 - Luma Store -INFO - Email is entered
-2024-05-31 22:03:33,009 - Luma Store -INFO - Password is entered
-2024-05-31 22:03:38,644 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:03:38,644 - Luma Store -INFO - User is loged In
-2024-05-31 22:03:43,768 - Luma Store -INFO - Product name is entered
-2024-05-31 22:04:06,602 - Luma Store -INFO - Search Result Page is opened
-2024-05-31 22:04:11,670 - Luma Store -INFO - List of Product is displayed
-2024-05-31 22:04:11,703 - Luma Store -INFO - Product Image is displayed
-2024-05-31 22:04:11,728 - Luma Store -INFO - Product Name is displayed
-2024-05-31 22:04:11,752 - Luma Store -INFO - Product Price is displayed
-2024-05-31 22:04:11,843 - Luma Store -INFO - First Product Size is choosed
-2024-05-31 22:04:13,007 - Luma Store -INFO - First Product Color is choosed
-2024-05-31 22:04:14,114 - Luma Store -INFO - First Add to Cart Button is clicked
-2024-05-31 22:04:15,224 - Luma Store -INFO - Second Product Size is choosed
-2024-05-31 22:04:16,345 - Luma Store -INFO - Second Product Color is choosed
-2024-05-31 22:04:17,464 - Luma Store -INFO - Second Add to Cart Button is clicked
-2024-05-31 22:04:18,559 - Luma Store -INFO - Third Product Size is choosed
-2024-05-31 22:04:19,679 - Luma Store -INFO - Third Product Color is choosed
-2024-05-31 22:04:20,808 - Luma Store -INFO - Third Add to Cart Button is clicked
-2024-05-31 22:04:21,830 - Luma Store -INFO - Search Result Page Test is passed
-2024-05-31 22:04:31,305 - Luma Store -INFO - URL is opened
-2024-05-31 22:04:33,303 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:04:33,304 - Luma Store -INFO - User is on Login Page
-2024-05-31 22:04:38,467 - Luma Store -INFO - Email is entered
-2024-05-31 22:04:39,600 - Luma Store -INFO - Password is entered
-2024-05-31 22:04:51,509 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:04:51,510 - Luma Store -INFO - User is loged In
-2024-05-31 22:04:56,601 - Luma Store -INFO - Cart is opened
-2024-05-31 22:07:51,132 - Luma Store -INFO - URL is opened
-2024-05-31 22:07:51,244 - Luma Store -INFO - Logo is displayed
-2024-05-31 22:07:51,277 - Luma Store -INFO - Sign In Button is displayed
-2024-05-31 22:07:51,305 - Luma Store -INFO - Create an Account Button is displayed
-2024-05-31 22:07:51,331 - Luma Store -INFO - Support Button is displayed
-2024-05-31 22:07:51,342 - Luma Store -INFO - Index Page Test is passed
-2024-05-31 22:08:01,870 - Luma Store -INFO - URL is opened
-2024-05-31 22:08:03,244 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:08:08,428 - Luma Store -INFO - Email is entered
-2024-05-31 22:08:09,590 - Luma Store -INFO - Password is entered
-2024-05-31 22:08:15,120 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:08:20,138 - Luma Store -INFO - User is loged In
-2024-05-31 22:08:20,139 - Luma Store -INFO - Login Page Test is passed
-2024-05-31 22:08:35,157 - Luma Store -INFO - URL is opened
-2024-05-31 22:08:36,746 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:08:36,746 - Luma Store -INFO - User is on Login Page
-2024-05-31 22:08:41,947 - Luma Store -INFO - Email is entered
-2024-05-31 22:08:43,063 - Luma Store -INFO - Password is entered
-2024-05-31 22:08:48,211 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:08:48,212 - Luma Store -INFO - User is loged In
-2024-05-31 22:08:53,262 - Luma Store -INFO - Welcome Text is displayed
-2024-05-31 22:08:53,295 - Luma Store -INFO - Header Menu is displayed
-2024-05-31 22:08:53,303 - Luma Store -INFO - Home Page Test is passed
-2024-05-31 22:09:03,591 - Luma Store -INFO - URL is opened
-2024-05-31 22:09:05,388 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:09:05,389 - Luma Store -INFO - User is on Login Page
-2024-05-31 22:09:10,602 - Luma Store -INFO - Email is entered
-2024-05-31 22:09:11,727 - Luma Store -INFO - Password is entered
-2024-05-31 22:09:18,472 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:09:18,472 - Luma Store -INFO - User is loged In
-2024-05-31 22:09:23,597 - Luma Store -INFO - Product name is entered
-2024-05-31 22:10:02,752 - Luma Store -INFO - URL is opened
-2024-05-31 22:10:02,850 - Luma Store -INFO - Logo is displayed
-2024-05-31 22:10:02,889 - Luma Store -INFO - Sign In Button is displayed
-2024-05-31 22:10:02,916 - Luma Store -INFO - Create an Account Button is displayed
-2024-05-31 22:10:02,945 - Luma Store -INFO - Support Button is displayed
-2024-05-31 22:10:02,955 - Luma Store -INFO - Index Page Test is passed
-2024-05-31 22:10:14,013 - Luma Store -INFO - URL is opened
-2024-05-31 22:10:15,412 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:10:20,694 - Luma Store -INFO - Email is entered
-2024-05-31 22:10:21,834 - Luma Store -INFO - Password is entered
-2024-05-31 22:10:26,683 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:10:31,702 - Luma Store -INFO - User is loged In
-2024-05-31 22:10:31,702 - Luma Store -INFO - Login Page Test is passed
-2024-05-31 22:10:44,537 - Luma Store -INFO - URL is opened
-2024-05-31 22:10:45,916 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:10:45,917 - Luma Store -INFO - User is on Login Page
-2024-05-31 22:10:51,113 - Luma Store -INFO - Email is entered
-2024-05-31 22:10:52,251 - Luma Store -INFO - Password is entered
-2024-05-31 22:10:57,310 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:10:57,311 - Luma Store -INFO - User is loged In
-2024-05-31 22:11:02,378 - Luma Store -INFO - Welcome Text is displayed
-2024-05-31 22:11:02,423 - Luma Store -INFO - Header Menu is displayed
-2024-05-31 22:11:02,435 - Luma Store -INFO - Home Page Test is passed
-2024-05-31 22:11:15,217 - Luma Store -INFO - URL is opened
-2024-05-31 22:11:16,588 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:11:16,589 - Luma Store -INFO - User is on Login Page
-2024-05-31 22:11:21,770 - Luma Store -INFO - Email is entered
-2024-05-31 22:11:22,906 - Luma Store -INFO - Password is entered
-2024-05-31 22:11:27,269 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:11:27,270 - Luma Store -INFO - User is loged In
-2024-05-31 22:11:32,397 - Luma Store -INFO - Product name is entered
-2024-05-31 22:15:15,549 - Luma Store -INFO - URL is opened
-2024-05-31 22:15:16,997 - Luma Store -INFO - Sign In Button is clicked
-2024-05-31 22:15:16,998 - Luma Store -INFO - User is on Login Page
-2024-05-31 22:15:22,175 - Luma Store -INFO - Email is entered
-2024-05-31 22:15:23,300 - Luma Store -INFO - Password is entered
-2024-06-01 14:31:21,558 - Luma Store -INFO - URL is opened
-2024-06-01 14:31:22,888 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:31:28,209 - Luma Store -INFO - Email is entered
-2024-06-01 14:31:29,449 - Luma Store -INFO - Password is entered
-2024-06-01 14:31:33,058 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:31:38,077 - Luma Store -INFO - User is loged In
-2024-06-01 14:31:38,077 - Luma Store -INFO - Login Page Test is passed
-2024-06-01 14:31:44,932 - Luma Store -INFO - URL is opened
-2024-06-01 14:31:46,127 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:31:46,128 - Luma Store -INFO - User is on Login Page
-2024-06-01 14:31:51,427 - Luma Store -INFO - Email is entered
-2024-06-01 14:31:52,599 - Luma Store -INFO - Password is entered
-2024-06-01 14:31:56,341 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:31:56,341 - Luma Store -INFO - User is loged In
-2024-06-01 14:32:01,460 - Luma Store -INFO - Welcome Text is displayed
-2024-06-01 14:32:01,507 - Luma Store -INFO - Header Menu is displayed
-2024-06-01 14:32:01,522 - Luma Store -INFO - Home Page Test is passed
-2024-06-01 14:32:11,701 - Luma Store -INFO - URL is opened
-2024-06-01 14:32:13,000 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:32:13,001 - Luma Store -INFO - User is on Login Page
-2024-06-01 14:32:18,248 - Luma Store -INFO - Email is entered
-2024-06-01 14:32:19,420 - Luma Store -INFO - Password is entered
-2024-06-01 14:32:23,104 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:32:23,104 - Luma Store -INFO - User is loged In
-2024-06-01 14:32:28,254 - Luma Store -INFO - Product name is entered
-2024-06-01 14:32:33,443 - Luma Store -INFO - Search Result Page is opened
-2024-06-01 14:32:38,570 - Luma Store -INFO - List of Product is displayed
-2024-06-01 14:32:38,623 - Luma Store -INFO - Product Image is displayed
-2024-06-01 14:32:38,664 - Luma Store -INFO - Product Name is displayed
-2024-06-01 14:32:38,700 - Luma Store -INFO - Product Price is displayed
-2024-06-01 14:32:38,800 - Luma Store -INFO - First Product Size is choosed
-2024-06-01 14:32:39,974 - Luma Store -INFO - First Product Color is choosed
-2024-06-01 14:32:41,195 - Luma Store -INFO - First Add to Cart Button is clicked
-2024-06-01 14:32:42,360 - Luma Store -INFO - Second Product Size is choosed
-2024-06-01 14:32:43,486 - Luma Store -INFO - Second Product Color is choosed
-2024-06-01 14:32:44,609 - Luma Store -INFO - Second Add to Cart Button is clicked
-2024-06-01 14:32:45,776 - Luma Store -INFO - Third Product Size is choosed
-2024-06-01 14:32:46,955 - Luma Store -INFO - Third Product Color is choosed
-2024-06-01 14:32:48,146 - Luma Store -INFO - Third Add to Cart Button is clicked
-2024-06-01 14:32:49,166 - Luma Store -INFO - Search Result Page Test is passed
-2024-06-01 14:32:55,736 - Luma Store -INFO - URL is opened
-2024-06-01 14:32:56,979 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:32:56,980 - Luma Store -INFO - User is on Login Page
-2024-06-01 14:33:02,215 - Luma Store -INFO - Email is entered
-2024-06-01 14:33:03,460 - Luma Store -INFO - Password is entered
-2024-06-01 14:33:07,195 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:33:07,195 - Luma Store -INFO - User is loged In
-2024-06-01 14:33:12,362 - Luma Store -INFO - Cart is opened
-2024-06-01 14:33:17,100 - Luma Store -INFO - Shopping Cart Page is opened
-2024-06-01 14:33:22,227 - Luma Store -INFO - Counter Number is displayed
-2024-06-01 14:33:22,296 - Luma Store -INFO - Product Image is displayed
-2024-06-01 14:33:22,360 - Luma Store -INFO - Product Detail is displayed
-2024-06-01 14:33:22,428 - Luma Store -INFO - Product Quantity is displayed
-2024-06-01 14:33:22,493 - Luma Store -INFO - Subtotal Price is displayed
-2024-06-01 14:33:27,007 - Luma Store -INFO - Second Product is moved to wishlist
-2024-06-01 14:33:35,533 - Luma Store -INFO - Third Product is removed
-2024-06-01 14:33:40,600 - Luma Store -INFO - Order Summary is displayed
-2024-06-01 14:33:40,663 - Luma Store -INFO - Total Price is displayed
-2024-06-01 14:33:40,682 - Luma Store -INFO - Shopping Cart Page Test is passed
-2024-06-01 14:33:48,152 - Luma Store -INFO - URL is opened
-2024-06-01 14:33:49,373 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:33:49,374 - Luma Store -INFO - User is on Login Page
-2024-06-01 14:33:54,680 - Luma Store -INFO - Email is entered
-2024-06-01 14:33:55,984 - Luma Store -INFO - Password is entered
-2024-06-01 14:33:59,276 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:33:59,277 - Luma Store -INFO - User is loged In
-2024-06-01 14:34:04,460 - Luma Store -INFO - Profile Menu is clicked
-2024-06-01 14:34:07,940 - Luma Store -INFO - My Wishlist Page is opened
-2024-06-01 14:34:13,079 - Luma Store -INFO - Wishlist Product is displayed
-2024-06-01 14:34:16,243 - Luma Store -INFO - Wishlist Product is removed
-2024-06-01 14:34:21,261 - Luma Store -INFO - My Wishlist Page Page Test is passed
-2024-06-01 14:34:28,455 - Luma Store -INFO - URL is opened
-2024-06-01 14:34:30,045 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:34:30,045 - Luma Store -INFO - User is on Login Page
-2024-06-01 14:34:35,348 - Luma Store -INFO - Email is entered
-2024-06-01 14:34:36,567 - Luma Store -INFO - Password is entered
-2024-06-01 14:34:40,548 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:34:40,549 - Luma Store -INFO - User is loged In
-2024-06-01 14:34:50,748 - Luma Store -INFO - Cart is opened
-2024-06-01 14:34:59,845 - Luma Store -INFO - Checkout Page is opened
-2024-06-01 14:35:04,997 - Luma Store -INFO - Order Summary is displayed
-2024-06-01 14:35:04,998 - Luma Store -INFO - Street is entered
-2024-06-01 14:35:05,999 - Luma Store -INFO - City is entered
-2024-06-01 14:35:07,015 - Luma Store -INFO - Province is selected
-2024-06-01 14:35:08,027 - Luma Store -INFO - Postcode is entered
-2024-06-01 14:35:09,030 - Luma Store -INFO - Phone Number is entered
-2024-06-01 14:35:10,151 - Luma Store -INFO - Shipping Method is selected
-2024-06-01 14:35:15,336 - Luma Store -INFO - Next button is clicked
-2024-06-01 14:35:20,466 - Luma Store -INFO - Place Order button is clicked
-2024-06-01 14:35:25,497 - Luma Store -INFO - Checkout Page Test is passed
-2024-06-01 14:47:40,123 - Luma Store -INFO - URL is opened
-2024-06-01 14:47:40,236 - Luma Store -INFO - Logo is displayed
-2024-06-01 14:47:40,279 - Luma Store -INFO - Sign In Button is displayed
-2024-06-01 14:47:40,319 - Luma Store -INFO - Create an Account Button is displayed
-2024-06-01 14:47:40,356 - Luma Store -INFO - Support Button is displayed
-2024-06-01 14:47:40,372 - Luma Store -INFO - Index Page Test is passed
-2024-06-01 14:47:50,207 - Luma Store -INFO - URL is opened
-2024-06-01 14:47:51,571 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:47:56,756 - Luma Store -INFO - Email is entered
-2024-06-01 14:47:57,961 - Luma Store -INFO - Password is entered
-2024-06-01 14:48:01,505 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:48:06,529 - Luma Store -INFO - User is loged In
-2024-06-01 14:48:06,530 - Luma Store -INFO - Login Page Test is passed
-2024-06-01 14:48:13,756 - Luma Store -INFO - URL is opened
-2024-06-01 14:48:14,999 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:48:15,000 - Luma Store -INFO - User is on Login Page
-2024-06-01 14:48:20,308 - Luma Store -INFO - Email is entered
-2024-06-01 14:48:21,491 - Luma Store -INFO - Password is entered
-2024-06-01 14:48:24,821 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:48:24,822 - Luma Store -INFO - User is loged In
-2024-06-01 14:48:29,887 - Luma Store -INFO - Welcome Text is displayed
-2024-06-01 14:48:29,930 - Luma Store -INFO - Header Menu is displayed
-2024-06-01 14:48:29,940 - Luma Store -INFO - Home Page Test is passed
-2024-06-01 14:48:36,919 - Luma Store -INFO - URL is opened
-2024-06-01 14:48:38,251 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:48:38,252 - Luma Store -INFO - User is on Login Page
-2024-06-01 14:48:43,424 - Luma Store -INFO - Email is entered
-2024-06-01 14:48:44,580 - Luma Store -INFO - Password is entered
-2024-06-01 14:48:47,911 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:48:47,911 - Luma Store -INFO - User is loged In
-2024-06-01 14:48:53,085 - Luma Store -INFO - Product name is entered
-2024-06-01 14:48:56,357 - Luma Store -INFO - Search Result Page is opened
-2024-06-01 14:49:01,447 - Luma Store -INFO - List of Product is displayed
-2024-06-01 14:49:01,524 - Luma Store -INFO - Product Image is displayed
-2024-06-01 14:49:01,558 - Luma Store -INFO - Product Name is displayed
-2024-06-01 14:49:01,597 - Luma Store -INFO - Product Price is displayed
-2024-06-01 14:49:01,704 - Luma Store -INFO - First Product Size is choosed
-2024-06-01 14:49:02,894 - Luma Store -INFO - First Product Color is choosed
-2024-06-01 14:49:04,117 - Luma Store -INFO - First Add to Cart Button is clicked
-2024-06-01 14:49:05,230 - Luma Store -INFO - Second Product Size is choosed
-2024-06-01 14:49:06,472 - Luma Store -INFO - Second Product Color is choosed
-2024-06-01 14:49:07,677 - Luma Store -INFO - Second Add to Cart Button is clicked
-2024-06-01 14:49:08,845 - Luma Store -INFO - Third Product Size is choosed
-2024-06-01 14:49:09,957 - Luma Store -INFO - Third Product Color is choosed
-2024-06-01 14:49:11,152 - Luma Store -INFO - Third Add to Cart Button is clicked
-2024-06-01 14:49:12,176 - Luma Store -INFO - Search Result Page Test is passed
-2024-06-01 14:49:18,894 - Luma Store -INFO - URL is opened
-2024-06-01 14:49:20,179 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:49:20,180 - Luma Store -INFO - User is on Login Page
-2024-06-01 14:49:25,475 - Luma Store -INFO - Email is entered
-2024-06-01 14:49:26,638 - Luma Store -INFO - Password is entered
-2024-06-01 14:49:29,801 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:49:29,801 - Luma Store -INFO - User is loged In
-2024-06-01 14:49:35,014 - Luma Store -INFO - Cart is opened
-2024-06-01 14:49:41,080 - Luma Store -INFO - Shopping Cart Page is opened
-2024-06-01 14:49:46,160 - Luma Store -INFO - Counter Number is displayed
-2024-06-01 14:49:46,237 - Luma Store -INFO - Product Image is displayed
-2024-06-01 14:49:46,304 - Luma Store -INFO - Product Detail is displayed
-2024-06-01 14:49:46,367 - Luma Store -INFO - Product Quantity is displayed
-2024-06-01 14:49:46,426 - Luma Store -INFO - Subtotal Price is displayed
-2024-06-01 14:49:50,002 - Luma Store -INFO - Second Product is moved to wishlist
-2024-06-01 14:49:58,142 - Luma Store -INFO - Third Product is removed
-2024-06-01 14:50:03,219 - Luma Store -INFO - Order Summary is displayed
-2024-06-01 14:50:03,280 - Luma Store -INFO - Total Price is displayed
-2024-06-01 14:50:03,299 - Luma Store -INFO - Shopping Cart Page Test is passed
-2024-06-01 14:50:10,129 - Luma Store -INFO - URL is opened
-2024-06-01 14:50:11,584 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:50:11,585 - Luma Store -INFO - User is on Login Page
-2024-06-01 14:50:16,880 - Luma Store -INFO - Email is entered
-2024-06-01 14:50:18,042 - Luma Store -INFO - Password is entered
-2024-06-01 14:50:21,445 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:50:21,446 - Luma Store -INFO - User is loged In
-2024-06-01 14:50:26,586 - Luma Store -INFO - Profile Menu is clicked
-2024-06-01 14:50:29,539 - Luma Store -INFO - My Wishlist Page is opened
-2024-06-01 14:50:34,616 - Luma Store -INFO - Wishlist Product is displayed
-2024-06-01 14:50:37,868 - Luma Store -INFO - Wishlist Product is removed
-2024-06-01 14:50:42,892 - Luma Store -INFO - My Wishlist Page Page Test is passed
-2024-06-01 14:50:49,740 - Luma Store -INFO - URL is opened
-2024-06-01 14:50:51,108 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:50:51,109 - Luma Store -INFO - User is on Login Page
-2024-06-01 14:50:56,418 - Luma Store -INFO - Email is entered
-2024-06-01 14:50:57,567 - Luma Store -INFO - Password is entered
-2024-06-01 14:51:01,106 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 14:51:01,106 - Luma Store -INFO - User is loged In
-2024-06-01 14:51:11,289 - Luma Store -INFO - Cart is opened
-2024-06-01 14:51:19,579 - Luma Store -INFO - Checkout Page is opened
-2024-06-01 14:51:24,665 - Luma Store -INFO - Order Summary is displayed
-2024-06-01 14:51:24,666 - Luma Store -INFO - Street is entered
-2024-06-01 14:51:25,675 - Luma Store -INFO - City is entered
-2024-06-01 14:51:26,690 - Luma Store -INFO - Province is selected
-2024-06-01 14:51:27,701 - Luma Store -INFO - Postcode is entered
-2024-06-01 14:51:28,711 - Luma Store -INFO - Phone Number is entered
-2024-06-01 14:51:29,903 - Luma Store -INFO - Shipping Method is selected
-2024-06-01 14:51:35,009 - Luma Store -INFO - Next button is clicked
-2024-06-01 14:51:40,194 - Luma Store -INFO - Place Order button is clicked
-2024-06-01 14:51:45,219 - Luma Store -INFO - Checkout Page Test is passed
-2024-06-01 15:01:22,845 - Luma Store -INFO - URL is opened
-2024-06-01 15:01:22,946 - Luma Store -INFO - Logo is displayed
-2024-06-01 15:01:22,990 - Luma Store -INFO - Sign In Button is displayed
-2024-06-01 15:01:23,021 - Luma Store -INFO - Create an Account Button is displayed
-2024-06-01 15:01:23,053 - Luma Store -INFO - Support Button is displayed
-2024-06-01 15:01:23,064 - Luma Store -INFO - Index Page Test is passed
-2024-06-01 15:02:06,764 - Luma Store -INFO - URL is opened
-2024-06-01 15:02:08,100 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:02:13,263 - Luma Store -INFO - Email is entered
-2024-06-01 15:02:14,341 - Luma Store -INFO - Password is entered
-2024-06-01 15:02:17,328 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:02:22,347 - Luma Store -INFO - User is loged In
-2024-06-01 15:02:22,348 - Luma Store -INFO - Login Page Test is passed
-2024-06-01 15:02:28,648 - Luma Store -INFO - URL is opened
-2024-06-01 15:02:29,823 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:02:29,823 - Luma Store -INFO - User is on Login Page
-2024-06-01 15:02:35,040 - Luma Store -INFO - Email is entered
-2024-06-01 15:02:36,145 - Luma Store -INFO - Password is entered
-2024-06-01 15:03:16,805 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:03:16,806 - Luma Store -INFO - User is loged In
-2024-06-01 15:03:21,845 - Luma Store -INFO - Welcome Text is displayed
-2024-06-01 15:03:21,875 - Luma Store -INFO - Header Menu is displayed
-2024-06-01 15:03:21,883 - Luma Store -INFO - Home Page Test is passed
-2024-06-01 15:03:29,194 - Luma Store -INFO - URL is opened
-2024-06-01 15:03:30,553 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:03:30,553 - Luma Store -INFO - User is on Login Page
-2024-06-01 15:03:35,700 - Luma Store -INFO - Email is entered
-2024-06-01 15:03:36,801 - Luma Store -INFO - Password is entered
-2024-06-01 15:03:40,450 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:03:40,450 - Luma Store -INFO - User is loged In
-2024-06-01 15:03:45,549 - Luma Store -INFO - Product name is entered
-2024-06-01 15:03:48,849 - Luma Store -INFO - Search Result Page is opened
-2024-06-01 15:03:53,921 - Luma Store -INFO - List of Product is displayed
-2024-06-01 15:03:53,956 - Luma Store -INFO - Product Image is displayed
-2024-06-01 15:03:53,982 - Luma Store -INFO - Product Name is displayed
-2024-06-01 15:03:54,015 - Luma Store -INFO - Product Price is displayed
-2024-06-01 15:03:54,122 - Luma Store -INFO - First Product Size is choosed
-2024-06-01 15:03:55,239 - Luma Store -INFO - First Product Color is choosed
-2024-06-01 15:04:02,452 - Luma Store -INFO - URL is opened
-2024-06-01 15:04:03,625 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:04:03,626 - Luma Store -INFO - User is on Login Page
-2024-06-01 15:04:08,824 - Luma Store -INFO - Email is entered
-2024-06-01 15:04:09,958 - Luma Store -INFO - Password is entered
-2024-06-01 15:04:13,131 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:04:13,131 - Luma Store -INFO - User is loged In
-2024-06-01 15:04:18,245 - Luma Store -INFO - Cart is opened
-2024-06-01 15:04:25,797 - Luma Store -INFO - URL is opened
-2024-06-01 15:04:27,031 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:04:27,032 - Luma Store -INFO - User is on Login Page
-2024-06-01 15:04:32,146 - Luma Store -INFO - Email is entered
-2024-06-01 15:04:33,278 - Luma Store -INFO - Password is entered
-2024-06-01 15:04:36,281 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:04:36,281 - Luma Store -INFO - User is loged In
-2024-06-01 15:05:36,168 - Luma Store -INFO - URL is opened
-2024-06-01 15:05:36,265 - Luma Store -INFO - Logo is displayed
-2024-06-01 15:05:36,298 - Luma Store -INFO - Sign In Button is displayed
-2024-06-01 15:05:36,324 - Luma Store -INFO - Create an Account Button is displayed
-2024-06-01 15:05:36,356 - Luma Store -INFO - Support Button is displayed
-2024-06-01 15:05:36,367 - Luma Store -INFO - Index Page Test is passed
-2024-06-01 15:05:43,250 - Luma Store -INFO - URL is opened
-2024-06-01 15:05:44,498 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:05:49,660 - Luma Store -INFO - Email is entered
-2024-06-01 15:05:50,831 - Luma Store -INFO - Password is entered
-2024-06-01 15:05:54,093 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:05:59,121 - Luma Store -INFO - User is loged In
-2024-06-01 15:05:59,122 - Luma Store -INFO - Login Page Test is passed
-2024-06-01 15:06:04,939 - Luma Store -INFO - URL is opened
-2024-06-01 15:06:06,050 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:06:06,050 - Luma Store -INFO - User is on Login Page
-2024-06-01 15:06:11,248 - Luma Store -INFO - Email is entered
-2024-06-01 15:06:12,371 - Luma Store -INFO - Password is entered
-2024-06-01 15:06:15,741 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:06:15,742 - Luma Store -INFO - User is loged In
-2024-06-01 15:06:20,806 - Luma Store -INFO - Welcome Text is displayed
-2024-06-01 15:06:20,837 - Luma Store -INFO - Header Menu is displayed
-2024-06-01 15:06:20,845 - Luma Store -INFO - Home Page Test is passed
-2024-06-01 15:06:27,279 - Luma Store -INFO - URL is opened
-2024-06-01 15:06:28,535 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:06:28,535 - Luma Store -INFO - User is on Login Page
-2024-06-01 15:06:33,681 - Luma Store -INFO - Email is entered
-2024-06-01 15:06:34,823 - Luma Store -INFO - Password is entered
-2024-06-01 15:06:38,183 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:06:38,184 - Luma Store -INFO - User is loged In
-2024-06-01 15:06:43,316 - Luma Store -INFO - Product name is entered
-2024-06-01 15:06:46,439 - Luma Store -INFO - Search Result Page is opened
-2024-06-01 15:06:51,482 - Luma Store -INFO - List of Product is displayed
-2024-06-01 15:06:51,510 - Luma Store -INFO - Product Image is displayed
-2024-06-01 15:06:51,531 - Luma Store -INFO - Product Name is displayed
-2024-06-01 15:06:51,558 - Luma Store -INFO - Product Price is displayed
-2024-06-01 15:06:51,639 - Luma Store -INFO - First Product Size is choosed
-2024-06-01 15:06:52,729 - Luma Store -INFO - First Product Color is choosed
-2024-06-01 15:06:53,855 - Luma Store -INFO - First Add to Cart Button is clicked
-2024-06-01 15:06:54,957 - Luma Store -INFO - Second Product Size is choosed
-2024-06-01 15:06:56,025 - Luma Store -INFO - Second Product Color is choosed
-2024-06-01 15:06:57,147 - Luma Store -INFO - Second Add to Cart Button is clicked
-2024-06-01 15:06:58,253 - Luma Store -INFO - Third Product Size is choosed
-2024-06-01 15:06:59,366 - Luma Store -INFO - Third Product Color is choosed
-2024-06-01 15:07:00,484 - Luma Store -INFO - Third Add to Cart Button is clicked
-2024-06-01 15:07:01,504 - Luma Store -INFO - Search Result Page Test is passed
-2024-06-01 15:07:07,706 - Luma Store -INFO - URL is opened
-2024-06-01 15:07:08,879 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:07:08,879 - Luma Store -INFO - User is on Login Page
-2024-06-01 15:07:14,070 - Luma Store -INFO - Email is entered
-2024-06-01 15:07:15,164 - Luma Store -INFO - Password is entered
-2024-06-01 15:07:18,718 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:07:18,718 - Luma Store -INFO - User is loged In
-2024-06-01 15:07:23,827 - Luma Store -INFO - Cart is opened
-2024-06-01 15:07:27,783 - Luma Store -INFO - Shopping Cart Page is opened
-2024-06-01 15:07:32,845 - Luma Store -INFO - Counter Number is displayed
-2024-06-01 15:07:32,877 - Luma Store -INFO - Product Image is displayed
-2024-06-01 15:07:32,912 - Luma Store -INFO - Product Detail is displayed
-2024-06-01 15:07:32,941 - Luma Store -INFO - Product Quantity is displayed
-2024-06-01 15:07:32,966 - Luma Store -INFO - Subtotal Price is displayed
-2024-06-01 15:07:36,448 - Luma Store -INFO - Second Product is moved to wishlist
-2024-06-01 15:07:44,548 - Luma Store -INFO - Third Product is removed
-2024-06-01 15:07:49,585 - Luma Store -INFO - Order Summary is displayed
-2024-06-01 15:07:49,611 - Luma Store -INFO - Total Price is displayed
-2024-06-01 15:07:49,619 - Luma Store -INFO - Shopping Cart Page Test is passed
-2024-06-01 15:07:55,907 - Luma Store -INFO - URL is opened
-2024-06-01 15:07:57,464 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:07:57,465 - Luma Store -INFO - User is on Login Page
-2024-06-01 15:08:02,695 - Luma Store -INFO - Email is entered
-2024-06-01 15:08:03,853 - Luma Store -INFO - Password is entered
-2024-06-01 15:08:07,258 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:08:07,261 - Luma Store -INFO - User is loged In
-2024-06-01 15:08:12,377 - Luma Store -INFO - Profile Menu is clicked
-2024-06-01 15:08:15,894 - Luma Store -INFO - My Wishlist Page is opened
-2024-06-01 15:08:20,957 - Luma Store -INFO - Wishlist Product is displayed
-2024-06-01 15:08:24,214 - Luma Store -INFO - Wishlist Product is removed
-2024-06-01 15:08:29,236 - Luma Store -INFO - My Wishlist Page Page Test is passed
-2024-06-01 15:08:36,454 - Luma Store -INFO - URL is opened
-2024-06-01 15:08:37,822 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:08:37,822 - Luma Store -INFO - User is on Login Page
-2024-06-01 15:08:43,026 - Luma Store -INFO - Email is entered
-2024-06-01 15:08:44,140 - Luma Store -INFO - Password is entered
-2024-06-01 15:08:47,613 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 15:08:47,614 - Luma Store -INFO - User is loged In
-2024-06-01 15:08:57,747 - Luma Store -INFO - Cart is opened
-2024-06-01 15:09:08,788 - Luma Store -INFO - Checkout Page is opened
-2024-06-01 15:09:13,861 - Luma Store -INFO - Order Summary is displayed
-2024-06-01 15:09:13,862 - Luma Store -INFO - Street is entered
-2024-06-01 15:09:14,875 - Luma Store -INFO - City is entered
-2024-06-01 15:09:15,886 - Luma Store -INFO - Province is selected
-2024-06-01 15:09:16,889 - Luma Store -INFO - Postcode is entered
-2024-06-01 15:09:17,901 - Luma Store -INFO - Phone Number is entered
-2024-06-01 15:09:19,010 - Luma Store -INFO - Shipping Method is selected
-2024-06-01 15:09:24,104 - Luma Store -INFO - Next button is clicked
-2024-06-01 15:09:29,219 - Luma Store -INFO - Place Order button is clicked
-2024-06-01 15:09:34,243 - Luma Store -INFO - Checkout Page Test is passed
-2024-06-01 20:44:09,766 - Luma Store -INFO - URL is opened
-2024-06-01 20:44:09,940 - Luma Store -INFO - Logo is displayed
-2024-06-01 20:44:09,993 - Luma Store -INFO - Sign In Button is displayed
-2024-06-01 20:44:10,036 - Luma Store -INFO - Create an Account Button is displayed
-2024-06-01 20:44:10,077 - Luma Store -INFO - Support Button is displayed
-2024-06-01 20:44:10,092 - Luma Store -INFO - Index Page Test is passed
-2024-06-01 20:44:20,361 - Luma Store -INFO - URL is opened
-2024-06-01 20:44:21,707 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 20:44:26,864 - Luma Store -INFO - Email is entered
-2024-06-01 20:44:27,981 - Luma Store -INFO - Password is entered
-2024-06-01 20:44:32,700 - Luma Store -INFO - Sign In Button is clicked
-2024-06-01 20:44:37,726 - Luma Store -INFO - User is loged In
-2024-06-01 20:44:37,728 - Luma Store -INFO - Login Page Test is passed
+2024-06-02 15:10:48,524 - Luma Store -INFO - URL is opened
+2024-06-02 15:10:48,619 - Luma Store -INFO - Logo is displayed
+2024-06-02 15:10:48,650 - Luma Store -INFO - Sign In Button is displayed
+2024-06-02 15:10:48,678 - Luma Store -INFO - Create an Account Button is displayed
+2024-06-02 15:10:48,705 - Luma Store -INFO - Support Button is displayed
+2024-06-02 15:10:48,715 - Luma Store -INFO - Index Page Test is passed
+2024-06-02 15:10:55,484 - Luma Store -INFO - URL is opened
+2024-06-02 15:10:56,652 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:11:01,830 - Luma Store -INFO - Email is entered
+2024-06-02 15:11:02,983 - Luma Store -INFO - Password is entered
+2024-06-02 15:11:06,506 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:11:11,541 - Luma Store -INFO - User is loged In
+2024-06-02 15:11:11,542 - Luma Store -INFO - Login Page Test is passed
+2024-06-02 15:11:17,871 - Luma Store -INFO - URL is opened
+2024-06-02 15:11:19,032 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:11:19,032 - Luma Store -INFO - User is on Login Page
+2024-06-02 15:11:24,189 - Luma Store -INFO - Email is entered
+2024-06-02 15:11:25,298 - Luma Store -INFO - Password is entered
+2024-06-02 15:11:28,392 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:11:28,393 - Luma Store -INFO - User is loged In
+2024-06-02 15:11:33,472 - Luma Store -INFO - Welcome Text is displayed
+2024-06-02 15:11:33,504 - Luma Store -INFO - Header Menu is displayed
+2024-06-02 15:11:33,512 - Luma Store -INFO - Home Page Test is passed
+2024-06-02 15:11:41,835 - Luma Store -INFO - URL is opened
+2024-06-02 15:11:43,180 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:11:43,181 - Luma Store -INFO - User is on Login Page
+2024-06-02 15:11:48,353 - Luma Store -INFO - Email is entered
+2024-06-02 15:11:49,501 - Luma Store -INFO - Password is entered
+2024-06-02 15:11:52,736 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:11:52,737 - Luma Store -INFO - User is loged In
+2024-06-02 15:11:57,871 - Luma Store -INFO - Product name is entered
+2024-06-02 15:12:02,351 - Luma Store -INFO - Search Result Page is opened
+2024-06-02 15:12:07,428 - Luma Store -INFO - List of Product is displayed
+2024-06-02 15:12:07,465 - Luma Store -INFO - Product Image is displayed
+2024-06-02 15:12:07,496 - Luma Store -INFO - Product Name is displayed
+2024-06-02 15:12:07,522 - Luma Store -INFO - Product Price is displayed
+2024-06-02 15:12:07,603 - Luma Store -INFO - First Product Size is choosed
+2024-06-02 15:12:08,712 - Luma Store -INFO - First Product Color is choosed
+2024-06-02 15:12:09,827 - Luma Store -INFO - First Add to Cart Button is clicked
+2024-06-02 15:12:10,945 - Luma Store -INFO - Second Product Size is choosed
+2024-06-02 15:12:12,034 - Luma Store -INFO - Second Product Color is choosed
+2024-06-02 15:12:13,126 - Luma Store -INFO - Second Add to Cart Button is clicked
+2024-06-02 15:12:14,192 - Luma Store -INFO - Third Product Size is choosed
+2024-06-02 15:12:15,276 - Luma Store -INFO - Third Product Color is choosed
+2024-06-02 15:12:16,405 - Luma Store -INFO - Third Add to Cart Button is clicked
+2024-06-02 15:12:17,434 - Luma Store -INFO - Search Result Page Test is passed
+2024-06-02 15:12:25,972 - Luma Store -INFO - URL is opened
+2024-06-02 15:12:27,366 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:12:27,366 - Luma Store -INFO - User is on Login Page
+2024-06-02 15:12:32,559 - Luma Store -INFO - Email is entered
+2024-06-02 15:12:33,654 - Luma Store -INFO - Password is entered
+2024-06-02 15:12:38,232 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:12:38,233 - Luma Store -INFO - User is loged In
+2024-06-02 15:12:43,341 - Luma Store -INFO - Cart is opened
+2024-06-02 15:12:51,992 - Luma Store -INFO - Shopping Cart Page is opened
+2024-06-02 15:12:57,070 - Luma Store -INFO - Counter Number is displayed
+2024-06-02 15:12:57,104 - Luma Store -INFO - Product Image is displayed
+2024-06-02 15:12:57,131 - Luma Store -INFO - Product Detail is displayed
+2024-06-02 15:12:57,157 - Luma Store -INFO - Product Quantity is displayed
+2024-06-02 15:12:57,182 - Luma Store -INFO - Subtotal Price is displayed
+2024-06-02 15:13:01,037 - Luma Store -INFO - Second Product is moved to wishlist
+2024-06-02 15:13:12,513 - Luma Store -INFO - Third Product is removed
+2024-06-02 15:13:17,569 - Luma Store -INFO - Order Summary is displayed
+2024-06-02 15:13:17,601 - Luma Store -INFO - Total Price is displayed
+2024-06-02 15:13:17,610 - Luma Store -INFO - Shopping Cart Page Test is passed
+2024-06-02 15:13:23,691 - Luma Store -INFO - URL is opened
+2024-06-02 15:13:25,495 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:13:25,495 - Luma Store -INFO - User is on Login Page
+2024-06-02 15:13:30,717 - Luma Store -INFO - Email is entered
+2024-06-02 15:13:31,863 - Luma Store -INFO - Password is entered
+2024-06-02 15:13:35,555 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:13:35,555 - Luma Store -INFO - User is loged In
+2024-06-02 15:13:40,636 - Luma Store -INFO - Profile Menu is clicked
+2024-06-02 15:13:44,864 - Luma Store -INFO - My Wishlist Page is opened
+2024-06-02 15:13:49,920 - Luma Store -INFO - Wishlist Product is displayed
+2024-06-02 15:13:54,332 - Luma Store -INFO - Wishlist Product is removed
+2024-06-02 15:13:59,355 - Luma Store -INFO - My Wishlist Page Page Test is passed
+2024-06-02 15:14:06,340 - Luma Store -INFO - URL is opened
+2024-06-02 15:14:07,767 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:14:07,768 - Luma Store -INFO - User is on Login Page
+2024-06-02 15:14:12,980 - Luma Store -INFO - Email is entered
+2024-06-02 15:14:14,118 - Luma Store -INFO - Password is entered
+2024-06-02 15:14:17,411 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:14:17,412 - Luma Store -INFO - User is loged In
+2024-06-02 15:14:27,545 - Luma Store -INFO - Cart is opened
+2024-06-02 15:14:40,278 - Luma Store -INFO - Checkout Page is opened
+2024-06-02 15:14:45,332 - Luma Store -INFO - Order Summary is displayed
+2024-06-02 15:14:45,333 - Luma Store -INFO - Street is entered
+2024-06-02 15:14:46,348 - Luma Store -INFO - City is entered
+2024-06-02 15:14:47,358 - Luma Store -INFO - Province is selected
+2024-06-02 15:14:48,367 - Luma Store -INFO - Postcode is entered
+2024-06-02 15:14:49,370 - Luma Store -INFO - Phone Number is entered
+2024-06-02 15:14:50,469 - Luma Store -INFO - Shipping Method is selected
+2024-06-02 15:14:55,571 - Luma Store -INFO - Next button is clicked
+2024-06-02 15:15:00,664 - Luma Store -INFO - Place Order button is clicked
+2024-06-02 15:15:05,695 - Luma Store -INFO - Checkout Page Test is passed
+2024-06-02 15:16:11,042 - Luma Store -INFO - URL is opened
+2024-06-02 15:16:11,114 - Luma Store -INFO - Logo is displayed
+2024-06-02 15:16:11,150 - Luma Store -INFO - Sign In Button is displayed
+2024-06-02 15:16:11,176 - Luma Store -INFO - Create an Account Button is displayed
+2024-06-02 15:16:11,210 - Luma Store -INFO - Support Button is displayed
+2024-06-02 15:16:11,220 - Luma Store -INFO - Index Page Test is passed
+2024-06-02 15:16:17,776 - Luma Store -INFO - URL is opened
+2024-06-02 15:16:19,085 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:16:24,289 - Luma Store -INFO - Email is entered
+2024-06-02 15:16:25,429 - Luma Store -INFO - Password is entered
+2024-06-02 15:16:28,986 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:16:34,011 - Luma Store -INFO - User is loged In
+2024-06-02 15:16:34,012 - Luma Store -INFO - Login Page Test is passed
+2024-06-02 15:16:41,482 - Luma Store -INFO - URL is opened
+2024-06-02 15:16:42,965 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:16:42,967 - Luma Store -INFO - User is on Login Page
+2024-06-02 15:16:48,145 - Luma Store -INFO - Email is entered
+2024-06-02 15:16:49,267 - Luma Store -INFO - Password is entered
+2024-06-02 15:16:52,476 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:16:52,477 - Luma Store -INFO - User is loged In
+2024-06-02 15:16:57,534 - Luma Store -INFO - Welcome Text is displayed
+2024-06-02 15:16:57,570 - Luma Store -INFO - Header Menu is displayed
+2024-06-02 15:16:57,579 - Luma Store -INFO - Home Page Test is passed
+2024-06-02 15:17:04,967 - Luma Store -INFO - URL is opened
+2024-06-02 15:17:06,130 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:17:06,131 - Luma Store -INFO - User is on Login Page
+2024-06-02 15:17:11,354 - Luma Store -INFO - Email is entered
+2024-06-02 15:17:12,467 - Luma Store -INFO - Password is entered
+2024-06-02 15:17:15,982 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:17:15,983 - Luma Store -INFO - User is loged In
+2024-06-02 15:17:21,118 - Luma Store -INFO - Product name is entered
+2024-06-02 15:17:24,178 - Luma Store -INFO - Search Result Page is opened
+2024-06-02 15:17:29,255 - Luma Store -INFO - List of Product is displayed
+2024-06-02 15:17:29,291 - Luma Store -INFO - Product Image is displayed
+2024-06-02 15:17:29,315 - Luma Store -INFO - Product Name is displayed
+2024-06-02 15:17:29,341 - Luma Store -INFO - Product Price is displayed
+2024-06-02 15:17:29,433 - Luma Store -INFO - First Product Size is choosed
+2024-06-02 15:17:30,546 - Luma Store -INFO - First Product Color is choosed
+2024-06-02 15:17:31,676 - Luma Store -INFO - First Add to Cart Button is clicked
+2024-06-02 15:17:32,784 - Luma Store -INFO - Second Product Size is choosed
+2024-06-02 15:17:33,892 - Luma Store -INFO - Second Product Color is choosed
+2024-06-02 15:17:35,019 - Luma Store -INFO - Second Add to Cart Button is clicked
+2024-06-02 15:17:36,114 - Luma Store -INFO - Third Product Size is choosed
+2024-06-02 15:17:37,225 - Luma Store -INFO - Third Product Color is choosed
+2024-06-02 15:17:38,333 - Luma Store -INFO - Third Add to Cart Button is clicked
+2024-06-02 15:17:39,362 - Luma Store -INFO - Search Result Page Test is passed
+2024-06-02 15:17:46,078 - Luma Store -INFO - URL is opened
+2024-06-02 15:17:47,416 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:17:47,417 - Luma Store -INFO - User is on Login Page
+2024-06-02 15:17:52,571 - Luma Store -INFO - Email is entered
+2024-06-02 15:17:53,732 - Luma Store -INFO - Password is entered
+2024-06-02 15:17:57,944 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:17:57,947 - Luma Store -INFO - User is loged In
+2024-06-02 15:18:03,095 - Luma Store -INFO - Cart is opened
+2024-06-02 15:18:11,204 - Luma Store -INFO - Shopping Cart Page is opened
+2024-06-02 15:18:16,270 - Luma Store -INFO - Counter Number is displayed
+2024-06-02 15:18:16,304 - Luma Store -INFO - Product Image is displayed
+2024-06-02 15:18:16,328 - Luma Store -INFO - Product Detail is displayed
+2024-06-02 15:18:16,355 - Luma Store -INFO - Product Quantity is displayed
+2024-06-02 15:18:16,386 - Luma Store -INFO - Subtotal Price is displayed
+2024-06-02 15:18:21,176 - Luma Store -INFO - Second Product is moved to wishlist
+2024-06-02 15:18:30,092 - Luma Store -INFO - Third Product is removed
+2024-06-02 15:18:35,161 - Luma Store -INFO - Order Summary is displayed
+2024-06-02 15:18:35,194 - Luma Store -INFO - Total Price is displayed
+2024-06-02 15:18:35,201 - Luma Store -INFO - Shopping Cart Page Test is passed
+2024-06-02 15:18:42,296 - Luma Store -INFO - URL is opened
+2024-06-02 15:18:43,518 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:18:43,519 - Luma Store -INFO - User is on Login Page
+2024-06-02 15:18:48,728 - Luma Store -INFO - Email is entered
+2024-06-02 15:18:49,891 - Luma Store -INFO - Password is entered
+2024-06-02 15:18:53,642 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:18:53,643 - Luma Store -INFO - User is loged In
+2024-06-02 15:18:58,758 - Luma Store -INFO - Profile Menu is clicked
+2024-06-02 15:19:02,547 - Luma Store -INFO - My Wishlist Page is opened
+2024-06-02 15:19:07,616 - Luma Store -INFO - Wishlist Product is displayed
+2024-06-02 15:19:11,683 - Luma Store -INFO - Wishlist Product is removed
+2024-06-02 15:19:16,709 - Luma Store -INFO - My Wishlist Page Page Test is passed
+2024-06-02 15:19:25,533 - Luma Store -INFO - URL is opened
+2024-06-02 15:19:26,947 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:19:26,948 - Luma Store -INFO - User is on Login Page
+2024-06-02 15:19:32,104 - Luma Store -INFO - Email is entered
+2024-06-02 15:19:33,251 - Luma Store -INFO - Password is entered
+2024-06-02 15:19:37,262 - Luma Store -INFO - Sign In Button is clicked
+2024-06-02 15:19:37,262 - Luma Store -INFO - User is loged In
+2024-06-02 15:19:47,360 - Luma Store -INFO - Cart is opened
+2024-06-02 15:20:02,568 - Luma Store -INFO - Checkout Page is opened
+2024-06-02 15:20:07,628 - Luma Store -INFO - Order Summary is displayed
+2024-06-02 15:20:07,629 - Luma Store -INFO - Street is entered
+2024-06-02 15:20:08,633 - Luma Store -INFO - City is entered
+2024-06-02 15:20:09,637 - Luma Store -INFO - Province is selected
+2024-06-02 15:20:10,640 - Luma Store -INFO - Postcode is entered
+2024-06-02 15:20:11,652 - Luma Store -INFO - Phone Number is entered
+2024-06-02 15:20:12,779 - Luma Store -INFO - Shipping Method is selected
+2024-06-02 15:20:17,876 - Luma Store -INFO - Next button is clicked
+2024-06-02 15:20:23,046 - Luma Store -INFO - Place Order button is clicked
+2024-06-02 15:20:28,058 - Luma Store -INFO - Checkout Page Test is passed
